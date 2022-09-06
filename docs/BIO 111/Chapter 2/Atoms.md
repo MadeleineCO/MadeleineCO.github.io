@@ -1,16 +1,16 @@
 [[2022-08-25]]
 
-I. All matter composed of [[Atoms]]
-		A. Understanding the structure of atoms is critical to understanding the nature of biological molecules
-		B. Unique structure with unique function
-II. 3 Major particles
-	A. Nucleus
+1. All matter composed of [[Atoms]]
+	1. Understanding the structure of atoms is critical to understanding the nature of biological molecules
+	2. Unique structure with unique function
+2. 3 Major particles
+	1. Nucleus
 		- Protons
-			a. Positive charge
+			1. Positive charge
 		- Neutrons
-			b. No charge
-	B. [[Electrons]]
-III. The number of protons and electrons make each [[Element]] unique
+			1. No charge
+	2. [[Electrons]]
+3. The number of protons and electrons make each [[Element]] unique
 	A. Atomic number = num of protons
 		- Number of protons equals number of electrons when naturally neutral
 			a. Atoms are electrically neutral

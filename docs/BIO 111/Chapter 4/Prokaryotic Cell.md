@@ -1,6 +1,6 @@
 [[2022-09-01]]
 I. [[Cellular Structures]]
-	A. Prokaryotic [[Cell]]s lake a membrane-bound nucleus
+	A. Prokaryotic [[Cell|cells]] do not a membrane-bound nucleus
 	B.. DNA not defined by a membrane ([[Nucleic Acid]])
 		- Membranes made up of phospholipid ([[Protein]])
 		- Genetic material is present in nucleoid
@@ -14,7 +14,7 @@ II. Shapes/structures
 III. Two types of prokaryotes
 	A. Archaea
 		- Unusual environments
-			a. Have [[Protein]]s that are heat tolerant
+			a. Have [[Protein|proteins]] that are heat tolerant
 				i. Can resist high temps bc of unusual characteristics
 	B. Bacteria
 		- Ex: E.coli
@@ -30,7 +30,7 @@ III. Two types of prokaryotes
 					~ A cell can only have so much volume before breaking; Size is limited
 						~ Surface (plasma membrane) area to volume (cytoplasm) relationship
 						~ Volume increases at 10x the rate of the surface area
-						~ Relative sizes of [[Cell]]s
+						~ Relative sizes of [[Cell|cells]]
 							~ The biggest single cell on the planet is an ostrich egg (shell allows it to hold)
 							~ On a logarithmic scale (10 fold increase in of volume to surface area)
 						~ This is why cells must be small

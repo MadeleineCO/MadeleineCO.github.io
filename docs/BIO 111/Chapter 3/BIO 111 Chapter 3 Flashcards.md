@@ -69,7 +69,8 @@ Cellulose::Made up of glucose linked in linear chains by beta 1-4 glycosidic lin
 Chitin::A type of polysaccharide; Large complex carb that makes hard exoskeleton in insects; water insoluble
 ^1661996553604
 
-Lipids::Hydrophobic because fats are non polar (like dissolves like and water is polar)
+Lipids are ---::hydrophobic because fats are non polar (like dissolves like and water is polar)
+^1662220145797
 
 Triacylglycerol::Formed by the joining of three fatty acids to a glycerol backbone in a dehydration reaction; Three water molecules released in process; Linked to the carbons in the glycerol to create a triglyceride
 ^1661996553612
@@ -77,9 +78,11 @@ Triacylglycerol::Formed by the joining of three fatty acids to a glycerol backbo
 Whenever you have a long chain of hydrocarbon (H + C), the hydrocarbon tail is ---::non polar; One end of chain has hydroxyn group (HO), which allows fatty acids to bond at that point
 ^1661996553619
 
-Saturated fat::If a fatty acid has nothing but single bonds (ex: stearic acid (composed of 18 carbon chain)); Not bent and very stackable; trans fat
+Saturated fat is a fatty acid that has ---::nothing but single bonds (ex: stearic acid (composed of 18 carbon chain)); Not bent and very stackable; trans fat
+^1662220187411
 
-Unsaturated fat::If a fatty acid has a double bond; Bent shape and unstackable; cis fat; liquid at room temp (ex: oleic acid)
+Unsaturated fat is a fatty acid that has::a double bond; Bent shape and unstackable; cis fat; liquid at room temp (ex: oleic acid)
+^1662220205497
 
 In trans fat, H molecules attached on ---::opposite sides allowing it to be straight; Cis fats have two hydrogens on same side, causing a kink
 ^1661996553628
@@ -142,92 +145,136 @@ Quaternary protein structure::Where two proteins interact and work together to f
 ^1661996553750
 [[2022-09-01]]
 Cystine::An amino acid; Side chain ends in SH (sulfhydryl, thyal); Two cystines can form disulfide bonds or bridges (covalent); Can't come apart like H bondns; Resistant to changes in pH and temp
+^1662220114249
 
 Some protein side chains are non polar while others are ---::polar; Non polar sides congregate to form hydrophobic core when in water
+^1662220114255
 
 Denaturing proteins::A permanent or temporary change; Ex: cooking egg causes permanent change as protein albumin is permanently denatured
+^1662220114262
 
 If you add more and more salt, the hydrophobic core of proteins in water may ---::become more exposed; If you reduce salt, it will fold into hydrophobic core again; Example of temporarily denatured proteins
+^1662220114269
 
 We can isolate proteins by slightly modifying ---::environment by pH or temp
+^1662220114276
 
 Chaperon (Heat shock (hsp)) proteins::Fixes other protein's tertiary structures and specifically designed to help other proteins maintain their shape
+^1662220114285
 
 Insulin::Has an alpha and beta chain, initially one single chain but separated and held together by disulfide bridges
+^1662220114292
 
 Disulfide bonds::Very, very hard to break; Stabilize proteins and amino acids
+^1662220114300
 
 Amino acids are monomers of ---::proteins
+^1662220114308
 
 DNA and RNA::Very large complex biomolecules; Involve two chains in antiparallel double helix (opposite directions) held by H bonds
+^1662220114315
 
 Major groove::Proteins interact with DNA and bind in the major groove
+^1662220114322
 
 Minor groove::Target of a large num of non-covalent binding agents
+^1662220114330
 
 DNA is made up of monomers called::nucleotides
+^1662220114337
 
 There are --- nucleotides in DNA and RNA::five; 4 in DNA, 3 of which are same for RNA and one unique nucleotide in RNA (T is replaced by U in RNA)
+^1662220114344
 
 Nucleotides::Monomers of DNA/RNA; Made up of nitrogenous base, pentose sugar, and one or more phosphate groups; Has charged phosphate attached to C-5
+^1662220114351
 
 Hydrogenous base of DNA/RNA::Has N imbedded in single or double rings
+^1662220114357
 
 Purines::Double ring; a base of DNA/RNA
+^1662220114364
 
 Pyrimidines::Single rings (larger word = smaller structure); a base of DNA/RNA
+^1662220114371
 
 On C-2, DNA has --- and RNA has ---::H (no O); OH (hydroxyl)
+^1662220114378
 
 Deoxyribose::DNA has NO oxygen (hence deoxy), whereas RNA has oxygen in hydroxyl (hence just ribose)
+^1662220114385
 
 The hydrogenous base, ribose sugar, and phosphate of nucleotides are held together by ---:H bonds; Can be broken by changes in temp or pH
 
 A pairs with ---::T in DNA and U in RNA
+^1662220114392
 
 G pairs with ---::C in DNA and RNA
+^1662220114399
 
 DNA has a --- backbone on the outside and the --- are on the inside::phosphate, bases; Each base from one strand interacts via H bonds w/ base from opposite strand
+^1662220114407
 
 Carbon residues in the pentose are numbered ---::1' through 5' (prime distinguishes from base 1-5)
+^1662220114414
 
 The base is attached to the --- position of the ribose, and the phosphate is attached to the --- position of the ribose::1', 5'
+^1662220114421
 
 When a polynucleotide is formed, the --- of the incoming nucleotide attaches to the --- group at the end of the growing chain::5' phosphate, 3' hydroxil group
+^1662220114428
 
 Two types of pentose found in nucleotides::deoxyribose for DNA and ribose for RNA
+^1662220114436
 
 Because DNA/RNA are antiparallel, there is a --- and ---::Front end (5' w/ phosphate), back end (3' w/ phosphate); Opposite to each other
+^1662220114443
 
 GC has --- H bonds, whereas AT has ---::three, two; This makes GC harder to break, so times when DNA must come apart (copying), it's easier if they come apart in AT rich regions
+^1662220114450
 
 Backbone of DNA/RNA::Very repetitive; Sugar, phosphate, sugar, phosphate, etc.
+^1662220114457
 
 DNA is read in ---::linear form (left to right)
+^1662220114464
 
 Genes::Contain info to make proteins; DNA organized into these discreet subsections
+^1662220114471
 
 Transcribing DNA::Taking DNA and converting it into RNA; Like speech to text; RNA version of DNA info
+^1662220114479
 
 Translating RNA::Translating RNA into the language of amino acids
+^1662220114487
 
 Relationship between proteins and DNA::DNA has front/back, RNA has corresponding front/back, amino acids have corresponding front/back, proteins have corresponding front/back
+^1662220114494
 
 The front end of a polypeptide chain is called ---::end terminal; Corresponds with 5' front end of nucleic acid; Where there is available amino group
+^1662220114501
 
 The back end of a protein corresponds with ---::3' back end of nucleic acid
+^1662220114508
 
 RNA::AU and GC; Single stranded (DNA is double stranded); Lifespan very short compared to DNA
+^1662220114516
 
 Ribosomal RNA (rRNA)::Two main parts; Large subunit and small subunit; Makes up ribosomes
+^1662220114523
 
 Messenger RNA (mRNA)::Temporary version of DNA info; Must be converted, which occurs in ribosome
+^1662220114530
 
 Transfer RNA (tRNA)::Converter/adapter; One part complimentary to single stranded RNA; Other part is an individual amino acid
+^1662220114538
 
 Transcription is the process of making ---::mRNA from DNA
+^1662220114545
 
 Translation is the process of making ---::proteins from RNA template
+^1662220114552
 
 Ribosome (from rRNA) reads mRNA in groups of three while tRNA ---::begins to make polypeptide chain
+^1662220114559
 
