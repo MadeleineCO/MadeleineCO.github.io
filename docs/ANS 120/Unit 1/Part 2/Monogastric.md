@@ -6,7 +6,7 @@ II. [[Carnivores]] and [[Omnivores]]
 	B. Carnivore is shorter and omnivore is longer
 III. Digestive system
 	A. Begins with mastication
-		- Mechanical digestion/breakdown
+		- Mechanical digestion/breakdown in mouth
 		- Chewing to create a bolus (creates wad the perfect size of our esophagus)
 	B. Esophagus
 		- Transport of ingested material from the mouth to the stomach

@@ -1,4 +1,5 @@
 [[2022-08-29]]
+
 I. Nutrients: Components of the diet required for normal physiological function
 	A. Nutrient Requirements
 		- Water
@@ -13,8 +14,8 @@ I. Nutrients: Components of the diet required for normal physiological function
 	B. Common Features
 		- Prehension: Method to gather or collect nutrients to enter the digestive system
 			a. Hands/silverware for humans
-			b. Horses use upper lip to collect and push to teeth
-			c. Sheep grab with teeth
+			b. [[Horse (Equine)]] uses upper lip to collect and push to teeth
+			c. [[Sheep (Ovine)]]  grabs with teeth
 			d. Starfish use stomach to grab and engulf food
 		- Mastication: Mechanical digestion
 			a. Chewing with teeth for humans
@@ -23,7 +24,7 @@ I. Nutrients: Components of the diet required for normal physiological function
 				i. We release compounds to break food down
 				ii. Enzymes, bile, etc.
 			b. Microbial
-				i. Cows, sheep, horses cannot digest grass, but the microbes inside of them can
+				i. Cows, sheep, horses cannot digest grass, but the microbes inside of them can ([[Herbivores]] and [[Non-Ruminant Herbivores]])
 				ii. Symbiotic relationship
 			c. Some species do both chemical and microbial, whereas others (such as us) mostly do one
 		- Absorption: Transfer of nutrients from the digestive track to the circulatory system 
@@ -41,5 +42,6 @@ II. Classes of animals based on what they eat
 		- Ex: Insectivore, Frugivore, Granivore
 III. Primary types of digestive systems
 	A. [[Monogastric]]
+		- [[Non-Ruminant Herbivores]]
 	B. [[Ruminant]]
-IV. [[Avian]]/Modified [[Monogastric]]
+	C. [[Avian]]/Modified [[Monogastric]]

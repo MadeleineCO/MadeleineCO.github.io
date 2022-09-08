@@ -3,14 +3,10 @@ I. [[Digestive Anatomy and Physiology]]
 	A. Multi-chambered stomach
 		- [[Herbivores]]
 		- Cows ([[Cattle (Bovine)]]) have one stomach with four different chambers
-	B. Non-Ruminant [[Herbivores]]
-		- Herbivores that are not ruminants
-		- True [[Monogastric]] but have significant microbial fermentation (digestion ability)
-		- "One way system"
-			a. Do not chew cud like ruminants
+	B. [[Non-Ruminant Herbivores]]
 II. Digestive process
 	A. Begins with mastication
-		- Mouth 
+		- Mouth: mechanical digestion 
 	B. Esophagus
 		- "Two way system"
 			a. Can swallow both directions easily

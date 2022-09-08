@@ -1,4 +1,5 @@
 [[2022-09-06]]
+
 1. Animal [[cell|cells]] each have centrosome and lysosomes, whereas plants cells do not
 	1. Lysosome: like digestive stomach; can take, fuse with, and break down digested material
 		- Contain digestive enzymes
@@ -13,7 +14,6 @@
 		1. [[Cell]] wall
 			- Composed of cellulose held by glycosidic bonds ([[Carbohydrate]])
 				- We cannot break the glycosidic bonds, so cellulose is not digestible
-		1. ---
 		2. Chloroplasts
 			- Inner membranes and outer membranes
 			- Converts sunlight into sugars

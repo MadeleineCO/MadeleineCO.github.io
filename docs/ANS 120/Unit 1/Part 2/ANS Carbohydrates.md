@@ -1,4 +1,5 @@
 [[2022-09-02]]
+
 I. Carbohydrates: Energy substrates (monosaccharides "one subunit", disaccharides "two subunits", polysaccharides "many subunits" like glucose polymers)
 	A. Monosaccharide ex: glucose molecule (glucose is primary carb; most used)
 	B. Polysaccharides generally take glucose and put them in chains 

@@ -328,22 +328,63 @@ Primary types of digestive tracts::monogastric, ruminant, avian/modified monogas
 
 [[2022-08-31]]
 Small intestines::Transfers nutrients across small intestine wall into circulatory system; Make materials mixed w/ acid more neutral
+^1662556163875
 
 Proximal region::Closest region to the stomach; Mostly still chemical digestion (no strong acid; secretes bile); Some absorption
+^1662556163884
 
 Distal region::Second region farther away from stomach; Mostly nutrient absorption; Lots of blood supply to intestines (absorbed into circulatory nutrients)
+^1662556163890
 
 Large intestines::May include the cecum/appendix; Includes the large colon; Some nutrient absorption; Mostly water metabolism
+^1662556163895
 
 Cecum::If nonfunctional, called the appendix; Only functional in pig; Digestive material sits in the cecum for microbial digestion
+^1662556163902
 
 Water metabolism occurs in the::large intestines (we don't want to keep all the water we intake; generally retain water, but designed to maintain appropriate amount of water)
+^1662556163908
 
 Omnivores have longer --- than carnivores::intestines
+^1662556163914
 
 Ruminant mechanical digestion::Mastication in mouth
+^1662556163920
 
 Ruminant esophagus::Two way system; can swallow up or down for multiple mastication in mouth (transfers from mouth to stomach to mouth to stomach, etc.)
+^1662556163927
 
 Ruminant stomach::one true stomach with four chambers; Forestomach, Rumen/Reticulum, Omasum, Abomasum
+^1662556163932
+
+[[2022-09-07]]
+Carbohydrate (ans)::Energy substrates (monosaccharides "one subunit", disaccharides "two subunits", polysaccharides "many subunits" like glucose polymers)
+^1662556208402
+
+Monosaccharide ex:: glucose molecule (glucose is primary carb; most used)
+^1662556163942
+
+Polysaccharides (ans)::Generally take glucose and put them in chains 
+^1662556208412
+
+Starch is series of --- and used for--- in plants::glucose molecules, storage of energy
+^1662556163950
+
+Cellulose (ans)::Carbohydrate that is main component of the cell walls of most plants; used for physical structure of plants (like skeleton); Can only be digested by microbes in herbivores (NOT omnivores and carnivores); Pigs can digest cellulose better than most monogastrics bc of cecum
+^1662556208420
+
+Glycogen::storage form of energy for animals
+^1662556163957
+
+Monogastric uses ---::simple CHO's (glucose)
+^1662556163962
+
+Ruminants and non-ruminant herbivores use ---::simple CHO's (glucose) as well as volatile fatty acids
+^1662556163968
+
+VFAs::Primary source of herbivore energy (>80% in ruminants and >60% in non ruminant herbivores)
+^1662556163974
+
+Acetic acid, propionic acid, and butyric acid are ---::main fatty acids and used to make ATP in a different way than simple carbs
+^1662556163980
 

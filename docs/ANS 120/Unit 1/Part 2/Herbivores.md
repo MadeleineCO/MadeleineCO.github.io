@@ -6,5 +6,5 @@ I. [[Digestive Anatomy and Physiology]]
 			a. Relative to us, they can digest more plant material
 		- Microbial digestion is primary
 			a. Chemical digestion is secondary
-II. Often [[Ruminant]]s
-	A. Can be Non-Ruminant Herbivores 
+II. Often [[Ruminant|ruminants]]
+	A. Can be [[Non-Ruminant Herbivores]] 
