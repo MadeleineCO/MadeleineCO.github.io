@@ -6,3 +6,4 @@
 		- One L-form used to make [[protein|proteins]]
 	3. Mirror images of each other
 2. [[Functional groups]]
+3. Make up [[Protein]]

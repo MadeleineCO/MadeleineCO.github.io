@@ -1,5 +1,5 @@
 [[2022-08-23]]
-I. Science aims to understand the natural world through observathion and reasoning
+I. Science aims to understand the natural world through observation and reasoning
 	A. Begins with observations
 		- Much of science is purely descriptive
 			a. Modifies as more information surfaces
@@ -11,7 +11,7 @@ I. Science aims to understand the natural world through observathion and reasoni
 				i. Ex: Number of observations made about fruit flies. They have homeobox genes that help with organizing head to thorax to abdomen (sequential development). Later discovered other organisms with them (including people). Concluded that there is pattern of development in all organisms.
 		- Deductive reasoning
 			a. From a general premise, specific results are predicted
-				i. Ex: Lizards have four legs. If you see a pucture of something without four legs, it is not a lizard. All lizards must have four legs. Can lead to flawed reasoning. There are such things as legless lizards. Lizards are defined by having eyelids whereas snakes cannot have eyelids. Defined difference is in eyelids, not limb count.
+				i. Ex: Lizards have four legs. If you see a picture of something without four legs, it is not a lizard. All lizards must have four legs. Can lead to flawed reasoning. There are such things as legless lizards. Lizards are defined by having eyelids whereas snakes cannot have eyelids. Defined difference is in eyelids, not limb count.
 			b. Must be careful to come to the right conclusion.
 	D. Science must be repeatable and consists of a series of well-defined steps.
 		- [[Scientific method]]

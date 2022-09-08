@@ -4,7 +4,7 @@ I. [[Chemical Bonds]]
 	B. Water is in bent shape because of two negative H
 		- This makes it a polor molecule
 	C. Cohesion = polarity of [[Water]] allows water molecules to be attracted to one another
-		- Net positive charge of H attracted to net positive charge of O
+		- Net positive charge of H attracted to net negative charge of O
 	D. Contains hydrogen bonds
 		- Hydrogen bonding makes ice less dense than liquid [[Water]]
 			a. Ice has more hydrogen bonds and is collectively stronger than water or gas, which fill shape of container

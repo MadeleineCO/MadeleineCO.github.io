@@ -388,3 +388,73 @@ VFAs::Primary source of herbivore energy (>80% in ruminants and >60% in non rumi
 Acetic acid, propionic acid, and butyric acid are ---::main fatty acids and used to make ATP in a different way than simple carbs
 ^1662556163980
 
+[[2022-09-08]]
+Avian Prehension::mouth/beak (NO mastication in the mouth)
+^1662653894393
+
+Crop::Mild chemical digestion and moistens ingested material; Pouch located outside body; No strong acids/bases; Avian
+^1662653894400
+
+Proventriculus::The abomasum or gastric stomach; Chemical digestion in avians
+^1662653894407
+
+Gizzard::Mastication (mechanical digestion); Thick pouch w/ strong muscles to smash ingested material
+^1662653894414
+
+Birds eat --- to help pulverize food in the gizzard::grit (ex small rocks); also gives them minerals
+^1662653894419
+
+Avian small intestines::Proximal (chemical digestion) and distal (absorption)
+^1662653894426
+
+Ceca::Avians have 2 ceca whereas most animals have one cecum; NOT for microbial digestion; Place for mixing and short term storage of urine and feces
+^1662653894432
+
+Birds don't have a ---::bladder; The ceca are made up of smooth muscle that can spontaneously contract for defecation
+^1662653894438
+
+Cloaca::"Common opening" used for reproduction and waste elimination in avians
+^1662653894445
+
+Avian large intestine::water metabolism
+^1662653894451
+
+Carnivore Comparative Anatomy::Simple stomach, very short monogastric tract; Simple CHO's for energy; protein from diet; b-complex vitamins from diet
+^1662653894458
+
+Omnivore Comparative Anatomy::Simple stomach; short monogastric tract; Simple CHO's for energy; Protein from diet; B-complex vitamins from diet
+^1662653894464
+
+Ruminant Comparative Anatomy::Chambered stomach; Long ruminant tract; VFA's (>80%) for energy; Protein from microbes/diet; B-complex vitamins from microbes
+^1662653894471
+
+Non-Ruminant Herbivore Comparative Anatomy::Simple stomach; Long monogastric tract + cecum; Simple CHO/VFA's for energy; Protein from diet; B-complex vitamins from microbes
+^1662653894477
+
+Avian Comparative Anatomy::Simple (rearranged position) stomach; Short modified monogastric tract; Simple CHO's for energy; Protein from diet; B-complex vitamins from diet
+^1662653894484
+
+Non-Ruminant Herbivores are ---::true monogastric but w/ significant microbial fermentation; "One way system"
+^1662653929153
+
+Non-Ruminant Herbivore Tract::Mouth (mechanical digestion), Esophagus (transport), Stomach (chemical digestion), Small intestines (proximal = digestion/absorption and distal = absorption), Cecum (microbial digestion), Large intestines (colon, some microbial digestion, water metabolism)
+^1662653894491
+
+Non-Ruminant Herbivores have a longer --- than omnivores and carnivores and a smaller --- than herbivores::small intestine; stomach
+^1662653894498
+
+Non-Ruminant Herbivore examples::Rabbits, pandas, koalas, elephant
+^1662653894505
+
+Coprophagy::Eating feces; Common for non-ruminant herbivores bc they can get necessary microbes
+^1662653894511
+
+Horse vs Cattle::Digestive capacity (35 vs 80 gas), Organization (hindgut vs forestomach), Rate of passage (35-50 vs 70-90); Built for different environments (one not necessarily efficient over the other)
+^1662653894518
+
+Hindgut fermentation::Digestive process for non-ruminant herbivores w/ single chambered stomach; More microbial digestion
+^1662653894525
+
+Forestomach::Ruminants; Includes rumen, reticulum, and omasum (Abomasum is separate as the gastric stomach)
+^1662653894532
+

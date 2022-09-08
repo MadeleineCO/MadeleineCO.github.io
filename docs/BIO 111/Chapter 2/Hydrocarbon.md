@@ -1,4 +1,5 @@
 [[2022-08-30]]
+
 I. Carbon can form a tetrahedral shape from C and H
 	A. Four H atoms are equidistance from each other around C
 II. Examples
@@ -40,9 +41,9 @@ III. Structure
 		e. Enantiomers are mirror images of each other
 	F. Can break up cells into four broad categories
 		a. Lipid (fat)
-			- Oleic acid and eliadic acid have same nums of carbons, but different shapes
+			- Oleic acid and Iliadic acid have same nums of carbons, but different shapes
 				i. Oleic acid has a bent shape
 					~ cis configuration
-				ii. Eliac acid has a linear shape
+				ii. Iliac acid has a linear shape
 					~ trans configuration
 IV. [[Amino Acids]]

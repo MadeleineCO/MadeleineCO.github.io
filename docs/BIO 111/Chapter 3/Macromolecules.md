@@ -1,4 +1,5 @@
 [[2022-08-30]]
+
 I. Characteristics of four biomolecules
 	A. Foods such as bread, fruit, cheese are rich sources of biological macromolecules 
 		- Carbs, fats, proteins, nucleic acids 

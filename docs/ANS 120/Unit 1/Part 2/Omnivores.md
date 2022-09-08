@@ -1,14 +1,15 @@
 [[2022-08-22]], [[2022-08-29]]
-I. Eat meat/digestible plants
-	A. Anatomy
+
+1. Eat meat/digestible plants
+	1. Anatomy
 		- Teeth 
 		- Omnivore digestive track
 		- Inability to manufacture B-complex vitamins 
-	B. Eat both plant and animal material
+	2. Eat both plant and animal material
 		- Can eat meat and can consume highly digestible plant components
-			a. Highly digestible = grains/fruits
-			b. We cannot eat all plants (ex: grass and leaves)
+			- Highly digestible = grains/fruits
+			- We cannot eat all plants (ex: grass and leaves)
 		- Chemical digestion
-			a. Microbial digestion is limited to very limited depending on species
-II. [[Monogastric]]
-III. Have longer intestines than [[Carnivores]]
+			- Microbial digestion is limited to very limited depending on species
+2. [[Monogastric]]
+3. Have longer intestines than [[Carnivores]]

@@ -10,6 +10,3 @@ I. Consists of a series of well-defined steps.
 			a. Repeat results
 		- If hypothesis incorrect. . .
 			a. Form a new hypothesis and repeat the process until correct
-		E. [[What makes a good experiment]]
-	II. Example of scientific method
-		A. [[Save the simploids]]

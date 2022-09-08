@@ -20,7 +20,7 @@
 			a. Mass refers to amount of substance
 			b. Weight refers to force gravity exerts on substance
 		- Sum of protons and neutrons is the atom's atomic mass
-			a. Each proton and neutron has a mass of approximately 1 dalton
+			a. Each proton and neutron has a mass of approximately 1 Dalton
 		- Listed on the periodic table
 			a. Atomic mass (rounded to whole number) can tell you the number of protons and neutrons together
 				i. Atomic mass - Atomic number = number of neutrons

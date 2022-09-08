@@ -4,7 +4,7 @@ I. [[The Nature of Atoms]]
 	B. Compounds are molecules containing more than one type of [[Element]] 
 	C. 3 Types of chemical bonds
 		- Ionic bonds = Formed by attraction of oppositely charged ions
-			a. Gain or loss of electrons forms ions
+			a. Gain or loss of [[electrons]] forms ions
 				i. Na atom loses an electron to become Na+
 				ii. Cl atom gains an electron to become CL-
 				iii. Opposite charges attract so that Na+ and Cl- remain associated as an ionic compound
@@ -33,11 +33,11 @@ I. [[The Nature of Atoms]]
 				iii. Both [[Water]] and carbon dioxide have polar covalent bonds, but carbon dioxide is linear, so the partial charges on the molecule cancel each other out and it is nonpolar overall
 					~ O - C - O (nonpolar molecule)
 					~ Water is in bent shape because of two negative H (polar molecule)
-					~ Methane has four H and one C. Four H are all positively charged and are equidistance around C, making it a nonpolar molecule. No unequal distrubition.
+					~ Methane has four H and one C. Four H are all positively charged and are equidistance around C, making it a nonpolar molecule. No unequal distribution.
 		- Hydrogen bond
 			a. Individually very weak and transitory
 				i. Collectively they can be very strong
 			b. Cohesion = polarity of [[Water]] allows water molecules to be attracted to one another
-				i. Net positive charge of H attracted to net positive charge of O
+				i. Net positive charge of H attracted to net negative charge of O
 			c. Attraction produces hydrogen bonds
 			d. Hydrogen bonds are responsible for many of [[Water]]'s physical properties

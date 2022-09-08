@@ -25,6 +25,6 @@
 	1. Digestive capacity: 80 vs 35 gals
 	2. Organization: forestomach vs hindgut
 	3. Rate of passage: 70-90 hours vs 35-50
-	4. None is necessary efficient over the other
+	4. None is necessarily efficient over the other
 		- Different for different environments
 		- Ex: Horses better at running

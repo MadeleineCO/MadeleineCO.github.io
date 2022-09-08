@@ -1,5 +1,6 @@
 [[2022-08-23]]
-A. Composed of [[Cell]]s
+
+A. Composed of [[Cell|cells]]
 		- Building block of life
 	B. Complex and ordered
 		- Have structures we can identify 
@@ -10,8 +11,8 @@ A. Composed of [[Cell]]s
 	E. Obtain and use energy
 		- Sun, food, etc.
 	F. Maintain internal balance
-		- Homeostatis
+		- Homeostasis
 			a. "Steady state"
-			b. Can tell when your sick (deviation from homeostatis)
+			b. Can tell when your sick (deviation from homeostasis)
 	G. Allow for evolutionary adaption
 		- Learn how to adapt and change

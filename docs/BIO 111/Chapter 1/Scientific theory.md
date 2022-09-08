@@ -7,4 +7,4 @@ I. Scientific theory
 		- Scientific laws CANNOT change
 II. [[Cell]] theory [[Unifying Themes in Biology]]
 	A. All [[Organism]]s are composed of [[Cell]]s
-	B. [[Cell]]s are life's building blocks
+	B. [[Cell|cells]] are life's building blocks

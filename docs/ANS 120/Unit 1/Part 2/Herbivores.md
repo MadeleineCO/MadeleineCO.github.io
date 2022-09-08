@@ -1,10 +1,11 @@
 [[2022-08-29]]
-I. [[Digestive Anatomy and Physiology]]
-	C. Survive on primary plant-based diets
+
+1. [[Digestive Anatomy and Physiology]]
+	1. Survive on primary plant-based diets
 		- Primarily forages
 		- Can eat low digestible plant components (high fiber)
-			a. Relative to us, they can digest more plant material
+			- Relative to us, they can digest more plant material
 		- Microbial digestion is primary
-			a. Chemical digestion is secondary
-II. Often [[Ruminant|ruminants]]
-	A. Can be [[Non-Ruminant Herbivores]] 
+			- Chemical digestion is secondary
+2. Often [[Ruminant|ruminants]]
+	1. Can be [[Non-Ruminant Herbivores]] 

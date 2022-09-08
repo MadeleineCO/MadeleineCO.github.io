@@ -1,9 +1,10 @@
 [[2022-08-25]]
+
 I. Element = Any substance that cannot be broken down to any other substance by ordinary chemical means
 	A. 92 naturally occurring elements
-		- Can create nonnaturally occuring elements in labs
+		- Can create nonnaturally occurring elements in labs
 			a. Unstable
-II. Elements within columns share similar characteriscs 
+II. Elements within columns share similar characterizes 
 	A. Metals
 		- Strong conductors
 	B. Metalloids

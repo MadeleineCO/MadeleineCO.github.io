@@ -1,4 +1,5 @@
 [[2022-08-25]]
+
 I. Properties
 	A. Negative charge
 	A. Negatively charged particles located in orbitals
@@ -26,7 +27,7 @@ I. Properties
 					~ Each sphere is a single orbital
 				- 1ns = closest orbital; spherical
 				- 2ns = 2nd closest orbital; spherical but larger than 1n
-				- p subshells are made up of three dumbell-shaped orbitals
+				- p subshells are made up of three dumbbell-shaped orbitals
 				- 2np = principle shell 2n has a p subshell (shell 1 does not)
 			c. Energy levels
 				- Electrons have potential energy related to their position
