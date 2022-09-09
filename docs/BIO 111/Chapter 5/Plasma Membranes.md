@@ -12,16 +12,13 @@
 	1. Structure consists of Glycerol (3 Carbon polyalcohol)
 	2. 2 fatty acids attached to glycerol
 		- Nonpolar and hydrophobic
-		- ---
-	3. Charged phosphate is hydrophilic
-	4. Phospholipids cluster with hydrophobic tails
-		- ---
-	5. Attached to phosphate is amino acid 
-		- Cerine is amino acid
-		- ---
+		- Charged phosphate is hydrophilic
+		- Phospholipids cluster with hydrophobic tails
+		- Attached to phosphate is amino acid 
+			- Serine is amino acid
+	3. Flexible matrix and a barrier to permeability
 1. Transmembrane [[protein|proteins]]
 	1. Integral membrane [[protein|proteins]]
-	2. ---
 	4. Trans [[protein|proteins]] work across the membrane
 	5. Can be made up of beta sheet [[protein|proteins]] for tunnels or alpha helix proteins with a part inside and a part outside
 2. Interior [[protein]] network
@@ -56,10 +53,8 @@
 					2. LDL tends to build up in bloodstream (bad)
 				3. HDL -  high density lipoprotein
 					1. Also transport [[protein]]
-					2. ---
 		- Glycolipid
 			- Can be embedded in membrane cause of hydrocarbon tails
-			- ---
 5. Membrane [[protein|proteins]]
 	1. Functions
 		- Transporters
@@ -68,16 +63,13 @@
 			- Can work to speed up reaction (catalyst)
 		- Cell surface receptors
 			- Communication
-			- ---
 		- [[Cell]] surface identity makers
 			- Mark as like or foreign
 		- [[Cell]] to cell adhesion [[protein|proteins]]
-			- ---
 			- Junction
 		- Attachments to the cytoskeleton
-			- ---
 	2. Integral membrane [[protein|proteins]]
-		- Span the [[lipid]] bylayer (transmembrane [[protein|proteins]])
+		- Span the [[lipid]] bilayer (transmembrane [[protein|proteins]])
 			- Nonpolar regions are embedded in interior of bilayer
 			- Polar regions protrude from both sides of bilayer
 			- Single pass transmembrane [[protein]]
@@ -87,11 +79,8 @@
 			- Triple pass [[protein|proteins]]
 				- Can go through three times
 			- Beta sheet [[protein]]
-				- End terminal and c terminal on same side
-				- ---
-		- Membrane associated
-		- Lipid linked
-			- ---
+				- N terminal and c terminal on same side
+		- Transmembrane, Membrane associated, Lipid linked, and protein attached
 		- [[Protein]] attached
 			- Quaternary structure
 			- [[Protein]] to protein interaction
