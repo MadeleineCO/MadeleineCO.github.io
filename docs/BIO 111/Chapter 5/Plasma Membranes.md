@@ -1,4 +1,5 @@
 [[2022-09-06]] 
+
 1. Membrane structure
 	1. Made of phospholipids arranged in bilayer 
 	2. Globular [[protein]] inserted in [[lipid]] bilayer
@@ -92,7 +93,7 @@
 		- Lipid linked
 			- ---
 		- [[Protein]] attached
-			- Quationary structure
+			- Quaternary structure
 			- [[Protein]] to protein interaction
 	3. HIV binds to CD4 receptor (surface marker), a glycoprotein on the surfaces of T [[cell|cells]]
 		1. Brought in by endocytosis
