@@ -1,16 +1,16 @@
 [[2022-09-07]]
 
-1. Herbivores that are not [[ruminant|ruminants]]
+1. Herbivores that are not [[Ruminant|ruminants]]
 	1. True [[Monogastric]] but have significant microbial fermentation (digestion ability)
 		- "One way system"
-			- Do not chew cud like [[ruminant|ruminants]]
+			- Do not chew cud like [[Ruminant|ruminants]]
 2. Digestive track ([[Digestive Anatomy and Physiology]])
 	1. Mouth (mechanical digestion)
 	2. Esophagus (transport)
 	3. Stomach (chemical digestion)
-		1. Very small compared to [[ruminant|ruminants]]
+		1. Very small compared to [[Ruminant|ruminants]]
 	4. Small intestines (proximal = digestion/absorption, distal = absorption)
-		1. Long compared to [[omnivores]]/[[carnivores]]
+		1. Long compared to [[Omnivores]]/[[Carnivores]]
 		2. Need more absorption/microbial digestion time
 	5. Cecum (enlarged, microbial digestion)
 		1. Fermentation
@@ -19,7 +19,7 @@
 3. Ex: [[Horse (Equine)]], rabbits, pandas, koalas, elephant
 4. Coprophagy
 	1. Eating feces
-	2. Common for non-ruminant [[herbivores]] bc they can get necessary microbes
+	2. Common for non-ruminant [[Herbivores]] bc they can get necessary microbes
 	3. Rarely a sign of nutritional issues
 5. [[Horse (Equine)]] vs [[Cattle (Bovine)]]
 	1. Digestive capacity: 80 vs 35 gals

@@ -17,21 +17,21 @@
 		- Attached to phosphate is amino acid 
 			- Serine is amino acid
 	3. Flexible matrix and a barrier to permeability
-1. Transmembrane [[protein|proteins]]
+3. Transmembrane [[protein|proteins]]
 	1. Integral membrane [[protein|proteins]]
 	4. Trans [[protein|proteins]] work across the membrane
 	5. Can be made up of beta sheet [[protein|proteins]] for tunnels or alpha helix proteins with a part inside and a part outside
-2. Interior [[protein]] network
+4. Interior [[protein]] network
 	1. Peripheral membrane [[protein|proteins]]
 	2. Only work on inside of membrane
-3. [[Cell]] surface markers
+5. [[Cell]] surface markers
 	1. Glycoproteins and glycolipids
 		1. Sugar ([[Carbohydrate]]) + [[protein]] or [[lipid]]
 		2. [[Cell]] surface markers
 		3. Bacterial [[cell|cells]] have different surface markers
 			- How body recognizes foreign substances
 		4. Transplant patients must have identical [[cell]] surface markers for success
-4. In [[Eukaryotic Cell]], can make cells more or less rigid
+6. In [[Eukaryotic Cell]], plasma membrane make cells more or less rigid
 	1. Regulated by cholesterol
 	2. Cholesterol is hydrophobic
 		- More cholesterol = more rigid and vise versa
@@ -55,43 +55,8 @@
 					1. Also transport [[protein]]
 		- Glycolipid
 			- Can be embedded in membrane cause of hydrocarbon tails
-5. Membrane [[protein|proteins]]
-	1. Functions
-		- Transporters
-			- [[Protein|proteins]] can create channels for hydrophobic molecules
-		- Enzymes
-			- Can work to speed up reaction (catalyst)
-		- Cell surface receptors
-			- Communication
-		- [[Cell]] surface identity makers
-			- Mark as like or foreign
-		- [[Cell]] to cell adhesion [[protein|proteins]]
-			- Junction
-		- Attachments to the cytoskeleton
-	2. Integral membrane [[protein|proteins]]
-		- Span the [[lipid]] bilayer (transmembrane [[protein|proteins]])
-			- Nonpolar regions are embedded in interior of bilayer
-			- Polar regions protrude from both sides of bilayer
-			- Single pass transmembrane [[protein]]
-				- Can go through once
-				- Front = N terminal (outside)
-				- Back = c terminal (inside of [[cell]])
-			- Triple pass [[protein|proteins]]
-				- Can go through three times
-			- Beta sheet [[protein]]
-				- N terminal and c terminal on same side
-		- Transmembrane, Membrane associated, Lipid linked, and protein attached
-		- [[Protein]] attached
-			- Quaternary structure
-			- [[Protein]] to protein interaction
-	3. HIV binds to CD4 receptor (surface marker), a glycoprotein on the surfaces of T [[cell|cells]]
-		1. Brought in by endocytosis
-			- 7 pass transmembrane protein are groups of proteins that are one of most abundant transmembrane proteins found in [[cell|cells]]
-			- Activated by virus
-			- Forms vesicle with virus inside
-			- Fuses with lysosome (digestion organelle) that releases virus to rest of [[cell]]
-				- Also how cholesterol gets inside [[cell]]
-6. Transportation into [[cell|cells]]
+7. [[Membrane proteins]]
+8. Transportation into [[cell|cells]]
 	1. Passive transport
 		1. Movement of molecules from high concentration to low concentration
 		2. Does not take energy
