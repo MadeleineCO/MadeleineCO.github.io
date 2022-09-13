@@ -1,9 +1,9 @@
 [[2022-09-12]]
 
-1. [[Roughages]]: Plant components 
+1. [[Roughages]]: Plant components (stems/leaves)
 2. Concentrates: High in energy and protein
 	1. Lots of energy concentrated
-	2. Includes seeds, grains, fruit
+	2. Includes seeds, grains, fruit, tubers
 	3. Protein from plant/animal sources
 3. Food additives
 	1. Nutrient additives

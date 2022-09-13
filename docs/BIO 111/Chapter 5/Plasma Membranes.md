@@ -1,4 +1,4 @@
-[[2022-09-06]] 
+[[2022-09-06]], [[2022-09-13]]
 
 1. Membrane structure
 	1. Made of phospholipids arranged in bilayer 
@@ -57,12 +57,5 @@
 			- Can be embedded in membrane cause of hydrocarbon tails
 7. [[Membrane proteins]]
 8. Transportation into [[cell|cells]]
-	1. Passive transport
-		1. Movement of molecules from high concentration to low concentration
-		2. Does not take energy
-		3. Diffusion down the concentration gradient
-	2. Makor barrier to crossing membrane is the hydrophobic interior that repels polar molecules bot not nonpolar molecules
-		1. Nonpolar molecules move until concentration is equal on both sides
-		2. Limited permeability to small polar molecules
-		3. Very limited permeability to larger polar molecules and ions
-		4. Sugar can't go through - too big
+	1. [[Passive transport]]
+	2. [[Active transport]]

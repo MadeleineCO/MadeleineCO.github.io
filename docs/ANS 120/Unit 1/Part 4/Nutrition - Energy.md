@@ -20,7 +20,6 @@
 			- More potential energy than carbs
 		2. Fat sources include animals and plants
 		3. Degree of saturation (level of double bonds) makes difference
-			- Saturated fats have more double bonds while unsaturated have fewer double bonds
 		4. Fats go through beta-oxidation to be produced as ATP
 		5. Uses include heat, sleeping, exercise/work, hibernation
 	3. Energy is commonly the most limiting nutrient

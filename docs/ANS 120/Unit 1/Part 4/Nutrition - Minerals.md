@@ -1,6 +1,6 @@
 [[2022-09-12]]
 
-1. Microminerals
+1. Macrominerals
 	1. Need in larger amounts
 	2. Ex: calcium (bones, teeth, nerves and muscle function)
 	3. Ex: sodium, potassium, chlorine (for osmotic balance, nerve function, muscle function)

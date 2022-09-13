@@ -458,3 +458,135 @@ Hindgut fermentation::Digestive process for non-ruminant herbivores w/ single ch
 Forestomach::Ruminants; Includes rumen, reticulum, and omasum (Abomasum is separate as the gastric stomach)
 ^1662653894532
 
+[[2022-09-12]]
+Body composition of animals::60% water, 16% protein, 2-20% fat, 4% ash (minerals)
+^1663090792928
+
+Nutrient Classes::Substances that provide nutrients; Required = water, energy (simple/complex carbs and fats), protein (amino acids), vitamins (fat soluble/water soluble, minerals (macro/micro)
+^1663090792937
+
+Nutrients are everything we get through ---::digestion (not things like air); water, energy, protein, vitamins, minerals
+^1663090792943
+
+Nutrient requirements can change w/ ---::physical changes (weight/size, stage of production, level of production, work, age, pregnancy) or environmental changes (climate, physical activity, diseases/parasites)
+^1663090792949
+
+Water is used for ---::transport (components travel via blood/fluids), lubrication (aids against friction), and cooling (species dependent; ex: sweating)
+^1663090792955
+
+What happens if >10% of water is lost?::Heat stroke, hallucinations, swollen tongue, unsteady walk, high body temp, no sweat or urine (for people; camels can lose up to 25% water; somewhat species dependent)
+^1663090792963
+
+When creating and balancing a ration, it is assumed that ---::water is available! (Water is a critical requirement)
+^1663090792969
+
+Energy::Commonly the most limiting nutrient, First concern when balancing a ration (assuming water is available); From simple/complex carbs and fats
+^1663090792975
+
+Carbohydrates (ans)::Energy substrates; Monosaccharides (glucose is primary for ATP production in all monogastrics) and Disaccharides (ex: sucrose) and Polysaccharides (ex: starch, cellulose, glycogen)
+^1663090856984
+
+Sucrose is composed of ---::glucose and fructose, making it a disaccharide. Monogastrics can break down sucrose, convert fructose to glucose, and use glucose for ATP
+^1663090792982
+
+Starch::Complex carb that is the chief form of stored energy in plants
+^1663090792988
+
+Cellulose is the main component of --::cell walls in most plants; complex carb
+^1663090875793
+
+Glycogen (ans)::Complex carb that is stored in the liver and muscles in animals
+^1663090843024
+
+Chemical digestion can break down --- and ---, but not ---::starch; glycogen; cellulose
+^1663090792996
+
+Microbial digestion can break down ---, ---, and ---::starch; cellulose; glycogen
+^1663090793002
+
+Monogastrics use --- for energy::simple CHO's (glucose)
+^1663090793008
+
+Ruminants and non-ruminant herbivores use --- for energy::simple CHO's (glucose) and VFA's; VFA's play the *primary* role as an energy substrate (>80% for ruminants and >60% for NRHs (depending on feed))
+^1663090793013
+
+Fats::About 2.25x energy than that of carbs (more potential energy); Animal and plant sources
+^1663090793020
+
+Fat degree of saturation (level of double bonds)::Sat fats don't have double carbon bonds, but unsat fats have one or more
+^1663090793025
+
+Fats go through --- to be produced as ATP::beta-oxidation (stops when fatty acid is completely degraded and converted into Acetyl Coa)
+^1663090793031
+
+Fat uses include ---::heat, sleeping, exercise/work, and hibernation
+^1663090793037
+
+Triglyceride + 3 H2O can be broken down (with Hormone-Sensitive Lipase) into ---::3 fatty acids and glycerol; Glycerol --> glucose and fatty acids (through beta-oxidation) --> Acetyl-CoA; Mitochondria turns glucose and acetyl-coa (through citric acid cycle and electron transport chain) into ATP
+^1663090793042
+
+Where does energy go?Gross energy --> digestible energy (or fecal) --> metabolic energy (or urine/gasses) --> net energy (or heat) --> maintenance (Basic metabolic/physiological function) --> production (ex: lactation); Loses some energy at every step
+
+Amino acids (ans)::For muscle, tendons, ligaments, connective tissue; 20 amino acids and 9 essential amino acids (must be in diet bc non-essentials can be manufactured from essentials); A complete protein contains all 20 amino acids
+^1663090843031
+
+Ruminant (ans)::Can get protein in diet but can also digest microbes as source of protein (bacteria, yeast, fungi, protozoa)
+^1663090819327
+
+Monogastrics must have protein ---::in their diets
+^1663090793049
+
+Essential amino acids::Histidine, Isoleucine, Leucine, Lysine, Methionine, Phenylalanine, Threonine, Tryptophan, Valine
+^1663090793055
+
+Macrominerals::Need in larger amounts (ex: calcium for bones, teeth, nerves and muscle function) (ex: sodium, potassium, chlorine for osmotic balance, nerve function, muscle function)
+^1663090793060
+
+Microminerals::Need in smaller amounts (ex: iodine (metabolic rate) and iron (hemoglobin for oxygen transport))
+^1663090793066
+
+Iron::Micromineral; Used for hemoglobin (oxygen transport); Deficiency affects half of human pop
+^1663090793073
+
+Iodine::Micromineral; T3/T4 - Metabolic rate; Iodized salt; Deficiency can cause goiter
+^1663090793078
+
+Vitamins::Fat soluble (A, D, E, K) and water soluble (C, B, B-complex)
+^1663090793085
+
+Water-soluble vitamins cannot be ---, so must be ---::stored; frequently added in diet and replaced consistently
+^1663090793091
+
+Fat soluble vitamin uses::A - cell growth; D - bone formation; E - red blood cells; K - clotting
+^1663090793097
+
+Fat soluble vitamins can be --- to ---::stored; decrease rate of metabolic breakdown
+^1663090793103
+
+Almost all water-soluble vitamins relate to --::control of metabolism and energy use by cells
+^1663090793108
+
+Examples of water soluble vitamins::Thiamin, Riboflavin, Niacin, B6, B12, Folic acid, Biotin, Choline
+^1663090793114
+
+Vitamin C::Antioxidant; Water-soluble vitamin; Prevents tissues from falling apart; Deficiency can cause scurvy (breaking down/rotting tissues)
+^1663090793120
+
+Roughages::Includes plant stems and leaves; High in fiber (cellulose + related components such as lignin, hemicellulose, wood) and low in energy; Used for structure in plants 
+^1663090793126
+
+The higher the fiber content, the lower the::nutrients; Inverse relationship
+^1663090793133
+
+Proteinaceous::Legumes; Higher in protein relative to other roughages; Crude Protein is generally greater than 15%; Alfalfa and clover
+^1663090793140
+
+Alfalfa::Proteinaceous; Symbiotic relationship w/ Rhizobium spp. that lives in root nodules; Can take N out of air and fix it to plants; Can be dangerous if too much protein and lower in fiber than most roughages (higher in nutrients)
+^1663090793146
+
+Carbonaceous::Grasses such as burmuda, fescue, orchard grass, timothy, and crop residue; Low in protein and other nutrients but high in fiber
+^1663090793152
+
+Importance of roughages::Critical for ruminants and non-ruminant herbivores as feed substrate for microbial digestion and maintaining GIT integrity; Horses need it to prevent colic and keep digestive track full and fully operational 
+^1663090793157
+
