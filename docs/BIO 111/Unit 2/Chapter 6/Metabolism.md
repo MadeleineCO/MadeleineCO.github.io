@@ -17,11 +17,11 @@ $$6CO_{2} + 6H_{2}O + energy\rightarrow C_{6}H_{12}C_{6} + 6O_{2}$$
 			- Chemicals that stimulate anabolic reactions
 			- Performance enhancing drugs increase muscle mass
 		- Dehydration synthesis
-			- Create bonds and by losing water molecule
+			- Create bonds and by losing [[water]] molecule
 	3. Catabolic reactions/catabolism
 		 - Harvest energy by breaking down molecules
 		- Digestion
-			- Breaking down [[protein]] to amino acids and complex sugars to simple sugars        
+			- Breaking down [[protein]] to [[amino acids]] and complex sugars to simple sugars        
 			([[Carbohydrate]])
 		- Hydrolysis
 			- Adding water molecule to break bonds

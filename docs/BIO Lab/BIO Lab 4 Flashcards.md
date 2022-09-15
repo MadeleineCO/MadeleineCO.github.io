@@ -40,8 +40,35 @@ The 4th tube did not gain a significant amount of weight because ---::the cell t
 Smaller SA/VR means the diffusion time takes ---::longer
 ^1663177404613
 
+All cells have a ---::semi-permeable cell membrane
+^1663263812712
 
+--- can pass the cell membrane passively, but --- cannot unless aided by proteins::Small, nonpolar molecules; Large, polar molecules
+^1663263812719
 
+Diffusion goes from ---::high to low concentration; Will eventually equilibrate if given opportunity; Plasma membrane can be barrier to diffusion depending on size and polarity
+^1663263812726
+
+Fluid mosaic proteins::Like doors controlling what goes in and out; Not completely rigid 
+^1663263812733
+
+Surface area to volume ration::A bigger space needs lots of doors and vise versa; If volume expands, the SA cannot keep up and if cell gets too big, could burst or not function properly
+^1663263812740
+
+Osmosis (biol)::The diffusion of water (relatively small and some, but not too much, polarity); Can cross cell membrane passively across concentration gradient
+^1663263834244
+
+Tonicity::When comparing two solutions, one w/ *higher* concentration of solute is **hypertonic** and one w/ *lower* concentration of solute is **hypotonic**
+^1663263812748
+
+Solvent is --- and solute is ---::what you are dissolving in (water); whatever is being dissolved (ex salt)
+^1663263812754
+
+Water always moves from --- to ---::hypo to hyper (less solute --> more solute; more water --> less water); Net movement
+^1663263812760
+
+Hypertonic cells --- while hypotonic cells ---::gain water and swell; lose water and shrink
+^1663263812766
 
 
 

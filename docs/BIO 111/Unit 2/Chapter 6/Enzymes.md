@@ -8,14 +8,14 @@
 	1. Enzymes often end in "ase"
 	2. 200 molecules of carbonic acid per hr made without enzyme
 	3. 600,000 molecules formed per second w/ enzyme
-5. Speed up reactions by lowering activation [[energy]] as catalysts
+5. Speed up reactions by lowering activation [[energy]] as catalysts ([[Metabolism]])
 6. Enzymes have tertiary structure bc they are proteins
 	1. Active site = where the molecule of interest (ligend) binds 
 		- Like a glove for a baseball
 		- Pockets or clefts for substrate binding
 		- Precise fit of substrate into active site
 		- ---
-7. Do not change the free energy or the reaction, just lower the activation energy
+7. Do not change the free [[energy]] or the reaction, just lower the activation energy
 8. According to induced-fit model, both enzyme and substrate undergo dynamic conformational changes upon binding. The enzyme contorts the substrate into its transition state, thereby increasing the rate of the reaction
 	1. Substrate enters active site of enzyme, enzyme changes shape slightly as substrate binds (enzyme/substrate complex), enzyme/products complex, products leave the active site of enzyme
 	2. The bond is bent by the enzyme, which stresses the bond and makes it break more quickly
@@ -38,16 +38,16 @@
 		- Nonpolar
 	5. B vitamins
 		- Lots of hydroxyl groups and oxygens
-		- Water-soluble
+		- [[Water]]-soluble
 		- Polar
 	6. Vitamin C
-		- Water-soluble
+		- [[Water]]-soluble
 		- Has oxygens
 	7. Vitamin E
 		- Fat-soluble
 		- Hydrogens and carbons, not oxygens
-	8. Water soluble vitamins cannot be stored and are released in urine
-	9. Fat soluble vitamins can be stored
+	8. [[Water]] soluble vitamins cannot be stored and are released in urine
+	9. [[Lipid]] soluble vitamins can be stored
 11. Metabolic pathways ([[Metabolism]])
 	1. Series of chemical reactions converting things
 		- Ex: Cholesterol to vitamin D

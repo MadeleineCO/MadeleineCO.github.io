@@ -6,7 +6,7 @@
 			- If a strong concentration on one side and a small concentration on another side, then diffusion from high to low concentration
 	1. Phospholipid bilayer
 		- 2 phospholipids back to back
-		- Fluid mosaic proteins  
+		- Fluid mosaic proteins 
 			- Like doors 
 			- Controls what can go in or out
 2. Cells must be small
@@ -14,7 +14,7 @@
 		- A bigger space needs lots of doors and vice versa
 		- Surface area is the outside area
 		- Volume is the internal area
-		- If volume expands, the surface area cannot keep up. If cell gets to big, it bursts like a water balloon or will not function properly
+		- If volume expands, the surface area cannot keep up. If cell gets too big, it bursts like a water balloon or will not function properly
 3. Diffusion
 	1. Spread from high concentration to low concentration
 	2. Will eventually equilibrate if given the opportunity 
