@@ -591,3 +591,46 @@ Importance of roughages::Critical for ruminants and non-ruminant herbivores as f
 ^1663090793157
 
 [[2022-09-15]]
+Hay production and pellets/cubes are ways of storing ---::roughages; Decreases rate of microbial breakdown by decreasing moisture content (forage is 50-80% water whereas hay is 8-16%)
+^1663253517596
+
+Energy concentrates::plant sources (grains, seeds); Wheat, corn, barley, milo, oats; Processing increases the digestibility of grains by breaking seed coat and grinding it
+^1663253517603
+
+A kernel of wheat contains. . .::endosperm (carb that helps plant survive until large enough to have leaves, roots, etc.), bran (outside seed coat made of cellulose), and germ (for reproduction)
+^1663253517609
+
+Processing grains exposes the inside to ---::chemical or microbial digestion as well as increasing surface area to give more places for breakdown
+^1663253517615
+
+Protein concentrates::Animal sources (by-products; meat meal, bone meal, etc.) and plant sources (cottonseed, soybean meal, linseed, etc.); Greater than 35% crude protein
+^1663253517621
+
+Cottonseed contains ---, which can be dangerous for all but ruminants where microbes remove neurotoxin::gossypol (neurotoxin)
+^1663253517627
+
+Protein is needed for ---, so we add it to feed to help animals grow strong::growth and development (muscles, ligaments, etc.)
+^1663253517633
+
+Animal sources of protein concentrates (by-products) have --- CP::60->90%
+^1663253517639
+
+Plant sources of protein concentrates (oil seeds) have --- CP::30-45%
+^1663253517645
+
+Nutrient additives::Essential for life support; Increase availability of vitamins and minerals (ex: salt blook contains minerals and NaCl (to regulate mineral intake))
+^1663253517651
+
+Non-nutrient additives::Alters metabolism (ex: selective antibiotic we feed to ruminants to either kill off less efficient microbes or add more beneficial/efficient organisms)
+^1663253517656
+
+Ionophores::Non-nutrient feed additives that improve animal weight gain and feed efficiency for beef cattle (ex: monensin is a selective antibiotic targeting microbes that do not produce as much VFA's to allow more productive species to populate)
+^1663253517663
+
+Yeast cultures can help ---:a horse's cecum because they are a productive microbe species
+
+Processing feeds into pellets/cubes::Grind seed --> extrudes in pellets/cubes; Creates better consistency and increase digestibility; Easy to add vitamins and minerals; Much more common than proportional mixes
+^1663253517668
+
+Proportional feed mixes::Mixing forages/concentrates/additives proportionally; Problem is that nutritional value can fluctuate based on quality of ingredients
+^1663253517674

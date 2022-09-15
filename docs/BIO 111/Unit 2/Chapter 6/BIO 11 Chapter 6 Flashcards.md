@@ -24,3 +24,4 @@ Digestion::Breaking down protein to amino acids and complex sugars to simple sug
 
 Biochemical pathways::Reactions occur in a sequence and the product of one reaction is the substrate for the next; Many steps take place in organelles
 ^1663201177617
+
