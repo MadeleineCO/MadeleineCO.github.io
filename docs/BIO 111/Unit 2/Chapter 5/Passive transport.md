@@ -18,13 +18,12 @@
 			- Charged molecules generally cannot diffuse
 		- Facilitated diffusion
 			- Moves substances down concentration gradient. 
-			- May cross membrane w/ aid of channel [[protein|proteins]]
+			- May cross membrane w/ aid of channel [[Protein|proteins]]
 				1. Allow diffusion like gates
 				2. Hydrophilic channel when open
-			- Carrier [[protein|proteins]]
+			- Carrier [[Protein|proteins]]
 				1. Bind specifically to molecules they assist
-				2. Capable of grabbing specific [[cell|cells]]
-				3. Membrane is selectively permeable 
+				2. Capable of grabbing specific [[Cell|cells]]
 3. Ion channels
 	1. Allow the passage of ions
 	2. Gated channels (open or close in response to chemical or electrical stimulus)

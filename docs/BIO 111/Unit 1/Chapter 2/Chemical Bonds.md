@@ -4,7 +4,7 @@ I. [[The Nature of Atoms]]
 	B. Compounds are molecules containing more than one type of [[Element]] 
 	C. 3 Types of chemical bonds
 		- Ionic bonds = Formed by attraction of oppositely charged ions
-			a. Gain or loss of [[electrons]] forms ions
+			a. Gain or loss of [[Electrons]] forms ions
 				i. Na atom loses an electron to become Na+
 				ii. Cl atom gains an electron to become CL-
 				iii. Opposite charges attract so that Na+ and Cl- remain associated as an ionic compound

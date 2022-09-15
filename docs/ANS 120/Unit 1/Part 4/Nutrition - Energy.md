@@ -16,14 +16,14 @@
 			- [[Ruminant|Ruminants]] and [[Non-Ruminant Herbivores]] use simple CHO's but VFA's play primary role as energy substrate
 				1. Ratio of CHO and VFA depends on feed, but mostly VFA
 	2. Fats
-		1. About 2.25x energy than that of carbs
+		1. About 2.25x energy than that of [[ANS Carbohydrates|carbs]]
 			- More potential energy than carbs
 		2. Fat sources include animals and plants
 		3. Degree of saturation (level of double bonds) makes difference
 		4. Fats go through beta-oxidation to be produced as ATP
 		5. Uses include heat, sleeping, exercise/work, hibernation
 	3. Energy is commonly the most limiting nutrient
-		1. First concern when balancing a ration (bc assuming water is available)
+		1. First concern when balancing a ration (bc assuming [[Nutrition - Water|water]] is available)
 		2. Cells all run on ATP
 3. Where does energy go?
 	1. Gross energy (GE; either fecal or digestible energy)

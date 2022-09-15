@@ -5,7 +5,7 @@
 	2. More complex than prokaryotic [[Cell|cells]]
 	3. Compartmentalize many cellular functions within organelles and the endomembrane system
 		- [[DNA]] never leaves nucleus, but RNA does ([[Nucleic Acid]])
-	4. Possess a cytoskeleton for support and to maintain [[Cell Structure|cellular structure]]
+	4. Possess a cytoskeleton for support and to maintain [[Cell Structure - L3|cellular structure]]
 		- Gives [[Organism]] its form
 	5. Budding yeast is the simplest eukaryotic organism
 		- One of smallest genomes
@@ -13,18 +13,18 @@
 	6. Can possess different levels of complexity
 		- Can me uni or multi cellular
 	7. Plants and animals are both eukaryotes
-		- Plants have a [[cell]] wall (made from polysaccarides)
+		- Plants have a [[Cell]] wall (made from polysaccarides)
 			- Animals do not have cell wall
 		 - Plants have chloroplasts for photosynthesis
 			 - Animals do not
 		- Both plants and animals have membrane bound nucleus, plasma membrane
 2. Plasma membrane
 	1. Levels of fluidity differ
-	2. Different [[protein|proteins]]
+	2. Different [[Protein|proteins]]
 		1. Not exclusively phospholipids
 			- Have three of four macromolecules 
-				- [[Protein|proteins]], [[lipid|lipids]], and [[carbohydrate|carbs]]
-				- Not [[nucleic acid]]
+				- [[Protein|proteins]], [[Lipid|lipids]], and [[Carbohydrate|carbs]]
+				- Not [[Nucleic Acid]]
 3. Study distinctive characteristics between eukaryotic cells and [[Prokaryotic Cell]]
 4. Nucleus
 	1. Endoplasmic reticulum, nucleolus (where ribosomal RNA is made), chromatin ([[DNA]] that interacts w/ proteins), nucleoplasm, nuclear pore, nuclear envelope
@@ -45,13 +45,13 @@
 		- About the size of bacteria
 	5. Present in all types of eukaryotes
 		- Not in prokaryotes
-			- [[Prokaryotic cell]] generates energy in plasma membrane
+			- [[Prokaryotic Cell]] generates energy in plasma membrane
 	1. Contains oxidative metabolism enzymes for transferring the energy within macromolecules to atp
 7. Peroxisomes
 	1. Breaks down fatty acids and amino acids
 	2. Detoxifies poisons (including alcohol)
 		- Eating antioxidants helps these organelles
-	3. Safely breaks down the H2O into oxygen and [[water]]
+	3. Safely breaks down the H2O into oxygen and [[Water]]
 	4. Glyoximes, specialized peroxisomes in plants are responsible for converting stored fats into sugars
 8. Vesicles and Vacuoles
 	1. Function and storage and transport
@@ -74,30 +74,30 @@
 			- Railways
 		- Intermediate filaments
 			- Medium-sized
-			- Cluster around nucleus but can be found throughout [[cell]]
+			- Cluster around nucleus but can be found throughout [[Cell]]
 12. Extracellular matrix (ECM)
 	1. Outside of cell
 	2. Proteins that are made and put on outside
 		1. Transferred from ribosome through exocytosis
 	3. Sugars on outside as well
 	4. Collagen 
-		1. Fibrous [[protein]] that composes glycoproteins
+		1. Fibrous [[Protein]] that composes glycoproteins
 	5. Integrin
 		1. [[Protein|Proteins]] present in plasma membrane
 		2. May be connected to the cytoplasm
-		3. Anchors proteins on outside of [[cell]]
+		3. Anchors proteins on outside of [[Cell]]
 13. Intercellular junctions
 	1. Plasmodesmata
-		- Channels that pass between [[cell]] walls of adjacent plant cells
+		- Channels that pass between [[Cell]] walls of adjacent plant cells
 	2. Cells of particular tissues adhere in unique ways
 		- Don't adhere with other organs
 	3. Cadherin
-		- Bind like [[cell|cells]]
+		- Bind like [[Cell|cells]]
 	4. Tight junctions
 		- Watertight seal between two adjacent tissues
 		- Don't allow liquid to pass
-		- Protect [[cell|cells]] from stomach acid ([[Acids and bases]])
+		- Protect [[Cell|cells]] from stomach acid ([[Acids and bases]])
 	5. Gap junctions
-		- Channels for adjacent cells in animal [[cell|cells]]
+		- Channels for adjacent cells in animal [[Cell|cells]]
 	6. Desmosomes
-		- Maintains the [[cell|cells]] in sheet like formation
+		- Maintains the [[Cell|cells]] in sheet like formation
