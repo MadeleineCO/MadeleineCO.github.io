@@ -106,3 +106,49 @@ Oviduct::Between ovaries and uterotubial junction; Also called fallopian tubes; 
 Fertilization occurs in the ---::infundibulum (top of oviduct funnel from ovaries)
 ^1663447019656
 
+[[2022-09-22]]
+Uterus::Transport (Help sperm get from uterine body to oviduct by smooth muscle contractions); Parturition process (very powerful smooth muscle contractions); Nutrition (Provides embryo nutrients called uterine milk until placental attachment); Site of gestation (involves placental attachment); Endocrine hormones
+^1663887923828
+
+In most species, sperm are deposited in --- and get up to the oviduct with aid from the ---::vagina; uterus; Pigs are exception as sperm deposited in uterine body
+^1663887923833
+
+Placental attachment::Embryonic tissues to attachment of uterine wall
+^1663887923836
+
+Cervix::Protects the uterine environment from potential pathogens; Contains folds that makes it easier to get things out than in; Located below uterine horns and only opens during estrus (during which it produces high amounts of mucus for lubrication and flushing microbes) and parturition (dilation indicates how close parturition is)
+^1663887923840
+
+Vagina::Place of semen deposition in most species (exception is swine, which is deposited in uterus); Located under cervix; Also provides removal of urine; Tough internal tissues
+^1663887923843
+
+Ovary sum::Exocrine (ovum production) and endocrine (E2, T, P4)
+^1663887923847
+
+Oviduct sum::Transportation, Fertilization site, Nutrition
+^1663887923850
+
+Uterus (Horns and Body) sum::Transportation, Nutrition for embryo, Site of gestation (placental attachment), and endocrine functions (several hormones)
+^1663887923854
+
+Cervix sum::Physical barrier
+^1663887923857
+
+Vagina sum::Semen deposition (except swine)
+^1663887923861
+
+Sperm and ovum are both ---::haploid (half the chromosomes); Embryo is diploid
+^1663887923864
+
+Ovum has a ---::zona pelluie (shell) that sperm combines w/ to create embryo
+^1663887923868
+
+Embryo::Starts dividing (cells get smaller as they divide); Cells begin to specialize; The zona pelluiea surrounds the inner cell mass; Tripoplast cells within shell eventually break out as placenta
+^1663887923871
+
+Placenta::Has several layers; Amnion (inner), Chorion (middle), and Allantois (outer); Chorioallantois (fused layers of placenta making up sac); Amnionic sac (makes up inner sac); Attached to internal organism by ambilocal cord; Uterine wall surrounds it all
+^1663887923874
+
+Placenta functions::Exchange of products, Hydraulic dampener, Cervical dilation and lubrication during parturition
+^1663887923878
+

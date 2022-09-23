@@ -4,7 +4,7 @@
 	1. Aerobic = requires oxygen
 	$$C_{6}H_{12}C_{6} + 6O_{2}\rightarrow 6CO_{2} + 6H_{2}O + energy$$
 		1. Eat sugar and breathing oxygen. Expel carbon dioxide and water and gain energy.
-2. Photosynthesis
+2. [[Photosynthesis]]
 $$6CO_{2} + 6H_{2}O + energy\rightarrow C_{6}H_{12}C_{6} + 6O_{2}$$
 	3. Same formula as us but in reverse
 4. Most life forms on earth get [[energy]] from the sun

@@ -2,11 +2,12 @@
 
 1. [[Cellular Respiration]]
 2. Final electron receptor is oxygen (O2)
-	1. Anaerobic respiration
+	1. [[Anaerobic respiration]]
 		- Final electron acceptor is an inorganic molecule (not O2)
-	2. ---
+	2. [[Fermentation]]
+		- Final electron acceptor is an organic molecule
 3. Makes [[ATP]]
-	1. Cells use ATP to drive endergonic reactions
+	1. Cells use ATP to drive endergonic reactions ([[Energy]])
 		- Delta G = -7.3 kcal/mol
 		- Cannot store ATP (unstable so you must make it and use it)
 	2. 2 Mechanisms for synthesis
@@ -17,11 +18,11 @@
 		- Oxidative phosphorylation
 			- ATP synthase (protein) uses energy from a proton gradient
 				1. Allows proteins to move from high concentration to low concentration
-	3. ATP Structure
+	3. [[ATP]] Structure
 		- Three unstable phosphates (high energy and neg charge)
 			- Break very easily
 		- If you break one phosphate (hydrolysis reaction), you get ADP
-			- In phosphorylation reactions, the gamma phosphate of ATP is attached to a protein
+			- In phosphorylation reactions, the gamma phosphate of ATP is attached to a [[protein]]
 			- When tertiary structure is phosphorylated, the structure is changed and therefore the function changes
 4. Oxidation of glucose
 	1. Keep track of C nums!
@@ -31,7 +32,7 @@
 		- Glycolysis
 			- "Glyco" = sugar
 			- "lysis" = breaking down
-			- Occurs in the cytoplasm of cell
+			- Occurs in the cytoplasm of [[cell]]
 			- Converts 1 glucose (6 carbons) to 2 pyruvates (3 carbons each)
 			- 10-step biochemical pathway
 				1. Takes glucose and creates ADP from ATP and puts phosphate on glucose
@@ -44,20 +45,27 @@
 			- 2 NADH by reduction of NAD+
 				1. For glycolysis to continue, NADH must be recycled to NAD 
 					1. Can occur via aerobic respiration
-						1. ---
-						2. Involves oxygen
-					2. Can occur via fermentation
-						1. ---
-						2. Does not involve oxygen
-				- ---
-		- Pyruvate oxidation (lowers energy)
+						1. Provides significant amount of ATP
+						2. Oxygen is available as the final electron acceptor
+					2. Can occur via [[fermentation]]
+						1. Occurs when oxygen not available
+						2. Organic molecule is the final electron acceptor
+		- [[Catabolism of Proteins]]
+		- Fate of pyruvate
+			- Depends on oxygen availability
+				1. When oxygen is present, pyruvate is oxidized to acetyl-CoA which enters the Krebs cycle
+					1. Aerobic respiration
+				2. Without oxygen, pyruvate is reduced in order to oxidize NADH back to NAD+
+					1. Fermentation
+		- Pyruvate oxidation (lowers [[Energy]])
+			- In the presence of oxygen, pyruvate is oxidized
 			- Occurs in mitochondria in eukaryotes (occurs in plasma membrane in prokaryotes)
-				1. Mitochondria has lots of membrane
+				1. Mitochondria has lots of [[Plasma Membranes]]
 					1. Membranes act as a partition of water and semipermeable barrier
 					2. Inner membrane has projections called cristae
 					3. Intermembrane space and matrix inside
 						- More partitions inside the organelle 
-			- Multienzyme complex called pyruvate dehydrogenase catalyzes the reaction
+			- Multienzyme complex called pyruvate dehydrogenase catalyzes the reaction ([[Enzymes]])
 			- Products
 				1. For each 3 carbon pyruvate molecule, 1 CO2 is created
 					1. Decarboxylation by pyruvate dehydrogenase
@@ -65,7 +73,7 @@
 					1. Acetyl-CoA proceeds to the Krebs cycle
 				3. 1 NADH is created
 					1. All NADH will be used in final fourth stage
-				4. ---
+				4. Upon entering the mitochondrial matrix, a multi-enzyme complex converts pyruvate into acetyl-CoA. In the process, CO2 is released and one molecule of NADH is formed
 		- Krebs cycle
 			- Occurs in the matrix mitochondria
 			- Oxidizes the Acetyl group from pyruvate
@@ -81,16 +89,6 @@
 				1. Regeneration of oxaloacetate
 					1. Then another Acetyl group is introduced and cycle repeats
 			- The cycle repeats
-		- How do we get energy from proteins or lipids?
-			- From Krebs cycle
-			- Amino acids contain a central (alpha) carbon w/ an amino group attached and a carboxyl group and a hydrogen and an R group (ex: hydrogen)
-				1. Deaminate this molecule
-					1. Removal of amino group
-					2. Contains 2 carbons
-			- If you deaminate other amino acids, you could get two, three, four, etc. carbons
-			- In Krebs cycle, the majority of CO2 is generated
-				1. NADH is also created and stored
-				2. FADH is another nucleotide that is made in the cycle
 		- For each Acetyl-CoA entering. . .
 			- Release 2 molecules of CO2 (two carbons from Acetyl-CoA)
 			- Reduce 3 NAD+ to 3 NADH
@@ -102,18 +100,18 @@
 			- 4 ATP
 			- 10 NADH
 			- 2 FADH2
-			- Electron transfer has released 53 kcal/mol of energy by gradual energy extraction
+			- Electron transfer has released 53 kcal/mol of energy by gradual [[energy]] extraction
 				1. Not enough, but these electron carries proceed to the electron transport chain
 	- Electron transport chain and chemiosmosis
-		- Main source of energy
-		- Energy used to create large supply of ATP
+		- Main source of [[energy]]
+		- Energy used to create large supply of [[ATP]]
 		- ETC is a series of membrane-bound electron carriers
-			1. A series of proteins embedded in inner mitochondrial membrane
+			1. A series of [[protein|proteins]] embedded in inner mitochondrial membrane
 				1. Quintenary structures
 				2. Like little machines
 		- Electrons from NADH and FADH2 are transferred to complexes of the ETC
 			1. Oxidizes NADH to NAD+
-				1. Releases energy
+				1. Releases [[energy]]
 		- Each complex has a proton pump creating proton gradient
 			1. Transfers electrons to next carrier
 			2. Requires energy bc active transport against concentration gradient
@@ -139,17 +137,18 @@
 					1. Protons are pumped from mitochondrial matrix to intermembrane space, and oxygen is reduced to form H2O
 				3. Must hold electrons until it has four electrons
 					1. Then it gets oxygen and makes water
-					2. Oxygen has 6 valence electrons (wants 2 more)
+					2. Oxygen has 6 valence electrons (wants 2 more) ([[Chemical Bonds]])
 						1. Needs two H to get electrons
 						2. When getting electrons, there are times when it has 7 (unpaired electron)
 							- Called a free radical (very reactive)
 							- Do not want to create free radicals, so cytochrome oxidase holds H until there are four so oxygen does not become free radical
-			1. ATP synthase
-				1. A complex, molecular protein that uses proton (H+) gradient to form ATP from ADP and inorganic phosphate (Pi)
+			1. [[ATP]] synthase
+				1. A complex, molecular [[enzymes|enzyme]] that uses proton (H+) gradient to form ATP from ADP and inorganic phosphate (Pi)
 				2. Protons pumped to the ATP synthase to make ATP
 				3. In oxidative phosphorylation, the pH gradient formed by electron transport chain is used by ATP synthase to form ATP
 			2. Citric acid cycle
-				1. ---
+				1. Another name for Krebss cycle
+				2. The final product (oxaloacetate) is also the first reactant so the cycle runs continuously in the presence of sufficient reactants and Acetyl CoA
 		- Theoretical energy yield
 			1. 38 ATP per glucose for bacteria
 			2. 36 ATP per glucose for eukaryotes

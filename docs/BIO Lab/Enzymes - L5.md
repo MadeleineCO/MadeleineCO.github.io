@@ -1,4 +1,6 @@
-1. Enzymes are special proteins that lower activation energy
+[[2022-09-22]]
+
+1.Enzymes are special proteins that lower activation energy
 	- Act as catalysts to speed up reactions
 2. Lock and key
 	- Enzymes are specific to certain things
@@ -23,4 +25,3 @@
 		1. Testing levels 3-8 
 	- Effect of temperature on peroxidase activity
 		1. Ice, room, 35*, 45* 60* Centigrade
-		2. 
