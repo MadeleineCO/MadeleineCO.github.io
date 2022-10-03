@@ -1,7 +1,7 @@
 [[2022-09-19]], [[2022-09-23]]
 
-1. [[Reproduction]]
-	- [[Reproductive Structures]]
+1. [[Female Reproduction]]
+	- [[Female Reproductive Structures]]
 2. Sperm and ovum are both haploid 
 	- Have half of chromosomes
 	- Embryo is diploid and contains both sets of chromosomes

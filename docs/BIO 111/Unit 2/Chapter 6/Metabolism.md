@@ -7,7 +7,7 @@
 2. [[Photosynthesis]]
 $$6CO_{2} + 6H_{2}O + energy\rightarrow C_{6}H_{12}C_{6} + 6O_{2}$$
 	3. Same formula as us but in reverse
-4. Most life forms on earth get [[energy]] from the sun
+4. Most life forms on earth get [[Energy]] from the sun
 	1. Plants capture sunlight and herbivores eat plants. Carnivores eat herbivores and decomposers digest plant and animal matter.
 5. Metabolism
 	1. Total of all chemical reactions carried out by an organism
@@ -17,15 +17,15 @@ $$6CO_{2} + 6H_{2}O + energy\rightarrow C_{6}H_{12}C_{6} + 6O_{2}$$
 			- Chemicals that stimulate anabolic reactions
 			- Performance enhancing drugs increase muscle mass
 		- Dehydration synthesis
-			- Create bonds and by losing [[water]] molecule
+			- Create bonds and by losing [[Water]] molecule
 	3. Catabolic reactions/catabolism
 		 - Harvest energy by breaking down molecules
 		- Digestion
-			- Breaking down [[protein]] to [[amino acids]] and complex sugars to simple sugars        
+			- Breaking down [[Protein]] to [[Amino Acids]] and complex sugars to simple sugars        
 			([[Carbohydrate]])
 		- Hydrolysis
 			- Adding water molecule to break bonds
-		- A covalent bond is composed of two elections, containing potential [[energy]]
+		- A covalent bond is composed of two elections, containing potential [[Energy]]
 			- If formed, energy is stored and if broken, energy is released
 6. Biochemical pathways
 	1. Reactions occur in a sequence

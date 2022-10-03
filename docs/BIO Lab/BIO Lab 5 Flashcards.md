@@ -29,3 +29,10 @@ The experiments::Baseline peroxidase enzyme reaction (no change on pH or temp); 
 
 Effect of temperature on peroxidase activity::Ice, 25*/room temp, 35*, 45*, 60* Centigrade
 ^1663895709995
+
+pH time 5 results::3 = no enzyme activity, 4 = activity 5, 5 = activity 5, 6 = activity 5, 7 = activity 5, 8 = activity 1
+^1664110690389
+
+Temperature time 5 results::Ice = activity 5, 25* = activity 5, 35* = activity 5, 45* = activity 5, 60* = activity 5
+^1664110690399
+

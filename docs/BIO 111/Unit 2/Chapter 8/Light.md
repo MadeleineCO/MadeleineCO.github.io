@@ -14,3 +14,6 @@
 		1. Shorter wavelengths have more energy and longer wavelengths have less energy (inverse relationship)
 			1. Gamma rays are very small and are radioactive
 			2. Radio waves are long and very low energy and span great distances
+2. A photon will either be absorbed or reflected
+	- Absorbed energy or reflect a wavelength of color
+	- 

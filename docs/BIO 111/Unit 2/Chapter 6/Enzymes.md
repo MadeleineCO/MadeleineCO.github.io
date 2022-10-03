@@ -1,6 +1,6 @@
 [[2022-09-15]]
 
-1. Most enzymes are [[protein|proteins]]
+1. Most enzymes are [[Protein|proteins]]
 	1. Some are RNA
 2. Shape of enzyme stabilizes a temporary association between substrates
 3. Enzyme not changed or consumed in reaction
@@ -8,14 +8,14 @@
 	1. Enzymes often end in "ase"
 	2. 200 molecules of carbonic acid per hr made without enzyme
 	3. 600,000 molecules formed per second w/ enzyme
-5. Speed up reactions by lowering activation [[energy]] as catalysts ([[Metabolism]])
+5. Speed up reactions by lowering activation [[Energy]] as catalysts ([[Metabolism]])
 6. Enzymes have tertiary structure bc they are proteins
 	1. Active site = where the molecule of interest (ligend) binds 
 		- Like a glove for a baseball
 		- Pockets or clefts for substrate binding
 		- Precise fit of substrate into active site
 		- ---
-7. Do not change the free [[energy]] or the reaction, just lower the activation energy
+7. Do not change the free [[Energy]] or the reaction, just lower the activation energy
 8. According to induced-fit model, both enzyme and substrate undergo dynamic conformational changes upon binding. The enzyme contorts the substrate into its transition state, thereby increasing the rate of the reaction
 	1. Substrate enters active site of enzyme, enzyme changes shape slightly as substrate binds (enzyme/substrate complex), enzyme/products complex, products leave the active site of enzyme
 	2. The bond is bent by the enzyme, which stresses the bond and makes it break more quickly

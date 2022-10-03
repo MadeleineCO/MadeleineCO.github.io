@@ -2,7 +2,7 @@
 
 1. [[Cellular Respiration]]
 2. Final electron receptor is oxygen (O2)
-	1. [[Anaerobic respiration]]
+	1. [[Anaerobic Respiration]]
 		- Final electron acceptor is an inorganic molecule (not O2)
 	2. [[Fermentation]]
 		- Final electron acceptor is an organic molecule
@@ -22,7 +22,7 @@
 		- Three unstable phosphates (high energy and neg charge)
 			- Break very easily
 		- If you break one phosphate (hydrolysis reaction), you get ADP
-			- In phosphorylation reactions, the gamma phosphate of ATP is attached to a [[protein]]
+			- In phosphorylation reactions, the gamma phosphate of ATP is attached to a [[Protein]]
 			- When tertiary structure is phosphorylated, the structure is changed and therefore the function changes
 4. Oxidation of glucose
 	1. Keep track of C nums!
@@ -32,7 +32,7 @@
 		- Glycolysis
 			- "Glyco" = sugar
 			- "lysis" = breaking down
-			- Occurs in the cytoplasm of [[cell]]
+			- Occurs in the cytoplasm of [[Cell]]
 			- Converts 1 glucose (6 carbons) to 2 pyruvates (3 carbons each)
 			- 10-step biochemical pathway
 				1. Takes glucose and creates ADP from ATP and puts phosphate on glucose
@@ -47,7 +47,7 @@
 					1. Can occur via aerobic respiration
 						1. Provides significant amount of ATP
 						2. Oxygen is available as the final electron acceptor
-					2. Can occur via [[fermentation]]
+					2. Can occur via [[Fermentation]]
 						1. Occurs when oxygen not available
 						2. Organic molecule is the final electron acceptor
 		- [[Catabolism of Proteins]]
@@ -100,18 +100,18 @@
 			- 4 ATP
 			- 10 NADH
 			- 2 FADH2
-			- Electron transfer has released 53 kcal/mol of energy by gradual [[energy]] extraction
+			- Electron transfer has released 53 kcal/mol of energy by gradual [[Energy]] extraction
 				1. Not enough, but these electron carries proceed to the electron transport chain
 	- Electron transport chain and chemiosmosis
-		- Main source of [[energy]]
+		- Main source of [[Energy]]
 		- Energy used to create large supply of [[ATP]]
 		- ETC is a series of membrane-bound electron carriers
-			1. A series of [[protein|proteins]] embedded in inner mitochondrial membrane
+			1. A series of [[Protein|proteins]] embedded in inner mitochondrial membrane
 				1. Quintenary structures
 				2. Like little machines
 		- Electrons from NADH and FADH2 are transferred to complexes of the ETC
 			1. Oxidizes NADH to NAD+
-				1. Releases [[energy]]
+				1. Releases [[Energy]]
 		- Each complex has a proton pump creating proton gradient
 			1. Transfers electrons to next carrier
 			2. Requires energy bc active transport against concentration gradient
@@ -143,7 +143,7 @@
 							- Called a free radical (very reactive)
 							- Do not want to create free radicals, so cytochrome oxidase holds H until there are four so oxygen does not become free radical
 			1. [[ATP]] synthase
-				1. A complex, molecular [[enzymes|enzyme]] that uses proton (H+) gradient to form ATP from ADP and inorganic phosphate (Pi)
+				1. A complex, molecular [[Enzymes|enzyme]] that uses proton (H+) gradient to form ATP from ADP and inorganic phosphate (Pi)
 				2. Protons pumped to the ATP synthase to make ATP
 				3. In oxidative phosphorylation, the pH gradient formed by electron transport chain is used by ATP synthase to form ATP
 			2. Citric acid cycle

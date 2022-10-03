@@ -8,9 +8,9 @@
 	- Wine never gets more than 12% alcohol bc more than that amount of ethanol is toxic to yeast and ends fermentation process
 3. Lactic acid fermentation (lactic acid 3 carbon molecule)
 	- Occurs in animal cells (especially muscles deprived of oxygen)
-		1. When we can't get enough oxygen but need to get [[energy]], lactic acid fermentation comes in instead of aerobic respiration
+		1. When we can't get enough oxygen but need to get [[Energy]], lactic acid fermentation comes in instead of aerobic respiration
 		2. Our muscles store glucose in large, highly branched polysaccharides called glycogen
-			- Muscles switch over to burning [[lipid|lipids]], but less efficient.
+			- Muscles switch over to burning [[Lipid|lipids]], but less efficient.
 		3. The accumulation of lactic acid makes muscles sore
 	- Electrons are transferred from NADH to pyruvate to produce lactic acid
 		1. Glucose --> 2 pyruvate (through glycolysis) --> 2 lactose (through fermentation)
