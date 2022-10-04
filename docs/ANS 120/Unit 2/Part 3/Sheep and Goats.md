@@ -38,7 +38,7 @@
 		- Among earliest [[domestication|domesticated]]
 			1. Herd-oriented
 			2. Not self-domesticated
-				- Intentional domestication
+				- Intentional [[domestication]]
 			3. Smaller
 			4. Lots of product
 				- Meat, fiber, leather
@@ -84,7 +84,107 @@
 		- Types of sheep
 			1. Wool
 				- Diameter of wool fiber (17-40 microns)
-				- Fine wool = smaller diameter
-					1. Human hair is 40-300 microns
-					2. 150-250 lbs.
-					3. Midwest and West
+					1. Fine wool = smaller diameter
+					2. Human hair is 40-300 microns
+						- Extremally small compared to humans
+				- 150-250 lbs.
+					1. Not large compared to meat breeds
+				- Midwest and West
+					1. Too humid in the South
+						- Can handle heat, but humidity is devastating 
+					2. Many parasites in hot + humid environments like the South
+				- Can be eaten, but not as prosperous/nice
+				- Bred to not have pigmentation in hair (sorta translucent)
+					1. Can be easily dyed 
+				- Navaho-Churro
+				- Rambouillet
+					1. French breed
+					2. Moderate size
+				- Romney
+					1. English breed
+					2. Very long hair
+			2. Meat
+				- Often called farm flock
+				- Selected for carcass and growth characteristic
+				- Medium quality wool
+					1. Greater diameter (not as fine)
+				- 250-400 lbs.
+				- Midwest and Northeast
+				- Suffolk
+				- Hampshire
+				- Can have black pigmentation
+					1. Limits dying ability
+				- Shear in the spring but toss wool
+					1. Only for cooling/sheep comfort 
+				- Southdown 
+			3. Hair Breeds
+				- Meat
+				- Milk
+				- Leather
+				- Subtropical to tropical environment
+					1. Selected for parasite, disease resistance
+					2. Adapted to hot, humid environment
+				- Barbados blackbelly
+				- Katahdin
+					1. What we have
+					3. Gulf coast natives
+						- From Katahdin
+						- Southeast
+					4. 1957 - Maine - Three lines of African based hair breeds via Virgin Islands
+						- Bred in virgin islands then brought to northeast
+					5. Treat once every 8-15 months based off need
+			4. Diversity
+				- Jacob sheep
+					1. 4-8 Big horns
+				- Shetland
+					1. Small and fluffy
+				- Han
+					1. Small tail han
+					2. Large tail han (fat tail)
+						- Tail is delicacy 
+				- Many other different breeds
+		- Wool Production
+			1. Wool Fiber
+				- Cuticle
+					1. Like overlapping scales of a snake
+					2. Outside cover w/ barbs and scale-like projections
+					3. Can weave fiber together bc the barbs interlock
+						- Felting = Process of weaving fibers together
+				- Cortex
+					1. Internal area w/ spongy material
+					2. Spongy and semi hollow
+					3. Absorbs dyes easily
+					4. Great insulation
+						- Trapping warm air 
+				- Regular hair is just strands of protein smashed together
+					1. Smooth on outside
+					2. Does not dye easily and does not hold together well
+				- Corse wool
+					1. Larger diameter
+					2. Bigger barbs on cuticle so not as nice to wear
+						- Itchy 
+					3. Carpets 
+						- Carpet burn - sratchy
+				- Fine wool
+					1. Smaller diameter
+					2. Smaller barbs so more comfortable
+				- Silk
+					1. No barbs 
+					2. Very hard to hold together
+					3. Silkworms are one of very few domesticated insects
+					4. Smaller than fine wool
+				- Cotton
+					1. Can be weaved easily cause of edges
+			2. Quality of wool
+				- Fiber diameter
+					1. Smaller more favorable
+					2. The larger the diameter, the less we use it for
+					3. 1/2 blood, 3/8 blood, 1/4 blood, low 1/4 blood, common/braid
+						- More good wool sheep blood = smaller diameter and better quality
+					4. CPI = Crimps per inch
+						- Waves of wool fiber
+						- The more waves, the better
+							1. More waves in finer wool
+						- Higher CPI is better quality
+						- More crimps also makes it stretchy
+						
