@@ -472,3 +472,81 @@ Sheep life cycle::Day 0 (breeding season from Sept to Nov), Day 147 (lambing fro
 Wool sheep::Diameter of wool fiber is 17-40 microns (fine wool has smaller diameter); Weigh 150-250 lbs; Common in midwest and west
 ^1664628767251
 
+[[2022-10-04]]
+The South is too --- for wool sheep::humid; hot + humid also increases num of parasites; Common in midwest and west bc they can handle heat but not heat + humidity
+^1664906114544
+
+Wool sheep are bred to not have --- in their wool::pigmentation (translucent so it can be dyed)
+^1664906114552
+
+Wool sheep breeds::Navaho-Churro, Rambouillet (French; moderate size), Romney (English, Very long wool)
+^1664906114558
+
+Meat sheep::Often called form flock; Selected for carcass and growth characteristics; Medium quality wool (greater diameter), 250-400 lbs., Common in Midwest and Northeast
+^1664906114565
+
+Meat sheep breeds::Suffolk, Hampshire (black pigmentation limits dying ability), Southdown
+^1664906114573
+
+Hair sheep::Meat, Leather, Milk, Common in subtropical to tropical environments (Adapted to hot/humid); Selected for parasite and disease resistance
+^1664906114580
+
+Hair sheep breeds::Barbados blackbelly, Katahdin(1957 from African lines in Virgin Islands), Gulf coast natives (From Katahdin; Southeastern)
+^1664906114589
+
+Other sheep breeds (diversity)::Jacob sheep (4-8 big horns), Shetland (small and fluffy), Han (small tail and large tail versions), Valais Blacknose, British Zwartbles, Blue Texel (Blauwe Texelaar), Border Leicester
+^1664906114600
+
+Wool fiber::Cuticle on outside (like overlapping snake scales and barbs) and cortex on inside (spongy material and semi-hollow)
+^1664906114609
+
+Felting::The process of weaving fibers together; Uses the cuticle barbs to interlock
+^1664906114616
+
+The cortex absorbs --- and is a great ---::dyes easily; insulator (traps warm air)
+^1664906114624
+
+Corse wool::Large and rough; Low quality; Big barbs (uncomfortable to wear; itchy); Sometimes used for carpets
+^1664906114630
+
+Fine wool::Smaller diameter; Smaller barbs; Used for clothing (smaller barbs = more comfortable)
+^1664906114637
+
+Alpaca, cashmere, silk, linen, cotton, and polyester can be used ---::instead of wool; Some are barbed (such as alpaca) and others are smooth (such as silk; harder to interweave)
+^1664906114643
+
+Cotton can be weaved easily due to ---::spiral edges
+^1664906114650
+
+CPI::Crimps per inch; The higher the CPI, the more waves in the wool making it higher quality; Smaller is more favorable; More crimps also makes fabric stretchier
+^1664906114656
+
+1/2 blood, 3/8 blood, 1/4 blood, low 1/4 blood, and common/braid are all different ---::CPI levels; Fine is best, 1/2 blood and lower are worse
+^1664906114664
+
+Fine wool has a diameter of --- whereas common/braid has a diameter of ---::20 MU; 40 MU
+^1664906114672
+
+Lanolin::Oil produced by sebaceous glands by wool sheep; Water-repellent and highly prized
+^1664906114679
+
+Wool staple length::The longer the fiber length, the higher quality
+^1664906114684
+
+Common compounds administered to sheep include ---::vaccines, antibiotics, parasides, and other medications and compounds such as vitamins
+^1664906114692
+
+Routes of sheep compound administration::Oral, Aerosol (sinus), Transdermal/Topical, Rectal, Hypodermic (under the skin; Intravenous (IV; within veins), Subcutaneous (Sub-Cut; under skin between skin and muscles), Intraperitoneal (IP; abdominal cavity), Intradermal (ID, between skin layers))
+^1664906114698
+
+Factors determining route of sheep compound administration::Absorption rate by the body, Duration of effectiveness (half-life = time it takes for effect OR quantity to decrease by half), Toxicity, Follow manufactures label
+^1664906114704
+
+Live Sheep Handling::Flight zone (animal behavior in confinement), restraint and control, treatment administration (Subcutaneous hypodermic vaccine administration, Oral application (drench) of paraside), Trimming hooves, Marking animal after completing procedures), FAMACHA (Evaluation of capillaries of the eyelid to estimate internal parasite load), Note fecal egg count (Methodology to determine presence and infestation of GI parasites by measuring num and type of parasite eggs in fecal sample)
+^1664906114711
+
+Barber pole worm::Most economically important parasite affecting sheep and goat production and most common cause of anemia during grazing season in most of US; Small tooth that lacerates the stomach (abomasum) wall and feeds on released blood resulting in anemia
+^1664906114719
+
+Signs of parasites in sheep::Diarrhea, Bottle jaw, Poor body condition, Dull hair coat or abnormal fleece, Exercise or heat intolerance, High FAMACHA score
+^1664906114726

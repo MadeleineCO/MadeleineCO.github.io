@@ -137,5 +137,99 @@ Kinases::Enzymes that phosphorylates something; Gets phosphates from ATP or GTP
 Scaffold proteins::Hold map kinases (kinases that stimulate cell division); Cascades from MKKK to MKK to MK then to response proteins; Improve efficiency but reduce amplification effect; Binds to each individual kinase such that they are spatially organized for optimal function
 ^1664574051003
 
+[[2022-10-05]]
+Map kinases stimulate --- and in scaffold proteins, they can interact with each other so that ---::cell division; when one protein is phosphorylated, another is phosphorylated than other in a series
+^1665028593214
+
+Intracellular second messengers::Chemical signals that cells say to do something quickly (lots in a chain of events); Often, effector proteins activated by G-proteins produce a second messenger
+^1665028593223
+
+Two common intracellular second messengers (effectors)::Adenylyl cyclase (Produces cAMP, which activates the enzyme protein kinase A (PKA)); Phospholipase C (PIP2 is acted on by effector protein phospholipase C)
+^1665028593231
+
+Adenylyl cyclase::Second messenger/effector protein; Activated by g-protein to produce cAMP, which activates kinase A (PKA); PKA adds phosphates to specific proteins
+^1665028593239
+
+When cAMP is present, cells must ---::get things done quickly; Binds to PKA (activated by g-protein and adenylyl cyclase), which then phosphorylates other proteins downstream of it
+^1665028593246
+
+Phospholipase C::Phosphorylation + lipid + enzyme; Associated w/ membranes and takes membrane-bound structure and reorganizes it to make other signaling molecules; Acts on PIP2 to produce IP3 plus DAG; Second messenger/effector
+^1665028593253
+
+After cleaving phosphates from ATP, you get to AMP then cyclic AMP (cAMP), which serves as a ---::second messenger to activate or inactivate proteins within the cell (intracellular)
+^1665028593261
+
+Termination of cAMP signal occurs when enzyme phosphodiesterase ---::converts cAMP into AMP; Caffeine interferes w/ this enzyme so cells continue to be very active
+^1665028593269
+
+RAS proteins::Small GTP-binding protein (g-protein); Link between the RTK and the MAP kinase cascade; Can normally turn itself off w/ innate hydrolyzing capabilities; Heterotrimeric g-proteins
+^1665028593277
+
+Heterotrimeric G-proteins have ---::A, B, and y subunits all linked together when inactive; Mutated in many human tumors, indicative of its role in linking growth factor receptors to their cellular response; When ligand binds to receptor, GTP plugged into a subunit (GDP --> GTP), causing a to separate from betta gamma pair; Then cellular response triggered by a or b y pair
+^1665028593285
+
+RAS can regulate ---::itself (stimulation by growth factors is short-lived); Innate hydrolysis abilities that can terminate signal (GTP --> GDP)
+^1665028593293
+
+Cholera::Ligand and toxin that binds to G-protein associated w/ receptor that can open a chloride channel in intestines; Cl ions pumped into intestines, causing water to follow the hih concentration of solute e (Cl-); Water flow cannot stop; Diarrhea --> dehydration --> death
+^1665028593300
+
+RAS protein is mutated in many ---::human tumors, indicative of role in linking growth factor to receptors to their cellular response; Can no longer hydrolyze resulting in uncontrolled cell growth; Cancerous tissues also don't have normal specialized functions and take resources from normal cells
+^1665028593309
+
+Receptor kinases::Kinases phosphorylate proteins to alter function; Receptor tyrosine kinases (RTK) associated w/ growth factors
+^1665028593316
+
+Receptor tyrosine kinases (RTK)::Influence cell cycle, cell migration, cell metabolism, and cell proliferation (alteration in function can lead to cancer); Membrane receptor w/ single transmembrane domain (anchored to membrane); Extracellular ligand-binding domain, Intracellular kinase domain (catalytic site of receptor acts as protein kinase); When ligand binds, dimerization and autophosphorylation occurs and cell response follows depending on proteins
+^1665028593324
+
+Mutations in --- can cause cancer::RTKs; Carcinogens can bind to receptors such as RTK when its not the normal ligand, stimulating RTK then downstream stimulating RAS and eventually to transcription factors that get activated (bind to DNA and affect gene expression)
+^1665028593332
+
+A receptor tyrosine kinase is an ---::enzyme-linked receptor with a single transmembrane region, and extracellular and intracellular domains. Binding of a signaling molecule to the extracellular domain causes the receptor to dimerize. Tyrosine residues on the intracellular domain are then autophosphorylated, triggering a downstream cellular response. The signal is terminated by a phosphatase that removes the phosphates from the phosphotyrosine residues.
+^1665028593339
+
+If kinases turn things on, how do you turn things off?::Phosphatase (enzyme that removes a phosphate from a protein)
+^1665028593347
+
+Only three amino acids can be ---::phosphorylated; Tyrosine, Serine and threonine (extra methal group on threonine); Any protein that must be phosphorylated w// have on of these three at a specific location
+^1665028593355
+
+The --- of a protein tells you the order of amino acids::primary sequence; Kinases are either serine and threonine kinases or tyrosine kinases 
+^1665028593364
+
+Epidermal growth factor (EGF) receptor (EGFR) is a receptor tyrosine kinase involved in the ---::regulation of cell growth, wound healing, and tissue repair; When EGF binds to EGFR, a cascade of downstream events causes cell to grow and divide; If EGFR activated at inappropriate times, cancer may occur
+^1665028593371
+
+Translation is the process of ---::mRNA --> amino acids using ribosomes; mRNA is single stranded but it forms a loop at the end when it cannot be read by ribosome; Loop stops production until proteins are phosphorylated (allowing you to control when you can make proteins)
+^1665028593379
+
+Apoptosis::Programmed cell death; Times when you need your cells to die and can be intentional w/ positive outcomes; Embryo webbed feet example (webbing cells must go through apoptosis)
+^1665028593386
+
+The enzyme phospholipase C breaks down ---::PIP2 into IP3 and DAG, both of which serve as second messengers.
+^1665028593394
+
+ERK is a ---::MAP kinase that activates translation when it is phosphorylated
+^1665028593403
+
+Communication between mother and daughter cell ---::Is not provided; asexual reproduction
+^1665028593411
+
+Yeast can exchange genetic material with ---::other yeast cells (sexual reproduction)
+^1665028593418
+
+Mating factor is a ---::ligand that can bind on a receptor of receiving yeast cell, stimulating the exchange of genetic info
+^1665028593426
+
+Autoinducers are small molecules or proteins that can regulate ---::gene expression; Produced by bacteria that regulate gene expression; When cell density low, autoinducers diffuse away from the cell, but when high, more autoinducers are present and bind to receptors that regulate transcription of certain genes responsible for production of autoinducers (positive feedback loop)
+^1665028593434
+
+Cell-cell communication enables Staphylococcus aureus bacteria to work together to form a ---::biofilm inside a hospital patient’s catheter. S. aureus is the main cause of hospital-acquired infections.
+^1665028593444
+
+Hawaiian bobtail squid have a symbiotic relationship with the bioluminescent bacteria Vibrio fischeri. The luminescence makes it difficult to see the squid from below because it effectively eliminates its shadow. In return for camouflage, the squid provides ---::food for the bacteria. Free-living V. fischeri do not produce luciferase, the enzyme responsible for luminescence, but V. fischeri living in a symbiotic relationship with the squid do. Quorum sensing determines whether the bacteria should produce the luciferase enzyme.
+^1665028593452
+
 
 
