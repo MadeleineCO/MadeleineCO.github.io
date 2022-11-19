@@ -5,7 +5,7 @@
 2. Sperm and ovum are both haploid 
 	- Have half of chromosomes
 	- Embryo is diploid and contains both sets of chromosomes
-	- Ovum has zona pelluie (shell)
+	- Ovum has zona pellucida (shell)
 		- Sperm combines w/ ovum and creates embryo
 3. Embryo
 	- Starts dividing 
@@ -20,12 +20,12 @@
 		- Chorion (middle)
 		- Allantois (outer)
 			- Watery fluid in the outside layer
-			- Ruptures first (water breaking)
-	2. Chorioallantois = fused layers of placenta (Chorion + Allantois) making up the outer sac
-	3. Amnionic sac = makes up the inner sac
-	5. Placenta attached to internal organism by ambilocal cord
-	6. Uterine wall surrounds it all
-	7. Functions
+			- Water breaking is chorioallantois
+	1. Chorioallantois = fused layers of placenta (Chorion + Allantois) making up the outer sac
+	2. Amnionic sac = makes up the inner sac
+	3. Placenta attached to internal organism by ambilocal cord
+	4. Uterine wall surrounds it all
+	5. Functions
 		- Exchange of products between the dam (mother) and offspring
 			1. Nutrients an waste
 			3. Oxygen and carbon dioxide
@@ -38,11 +38,11 @@
 				- 1st water sac expands (then ruptures/water breaking)
 			2. Lubrication
 				- Amnion fluid = lubricant in the birth canal
-	8. Embryo
+	6. Embryo
 		- Called a fetus after the placental attaches to the uterine wall
 		- A bird or reptile is always an embryo
 		- In cattle, placental attachment takes time (from about 20-40 days)
-	9. Types of attachment
+	7. Types of attachment
 		- Diffuse = attachment occurs via microvilli throughout the uterus
 			1. Horse and pig
 		- Zonary = regional diffuse attachment
@@ -52,9 +52,13 @@
 			1. Cattle, sheep, goats
 		- Discoid = placenta attaches to the uterine wall by a single disc-shaped component
 			1. Primates
+			2. Humans
 		- Need enough layers that nutrients, waste, co2, and o2 go back and forth, but NOT blood components
 			1. Prevents immune responses from attaching fetus
-5. Parturition 
+			2. The more layers, the less blood at parturition
+			3. Cows have 6 layers - very little to no blood
+				- Rabbits have 1 layer - bleed a lot
+1. Parturition 
 - See duration of stages table!
 - Animals usually hide
 	1. Avoiding predators 

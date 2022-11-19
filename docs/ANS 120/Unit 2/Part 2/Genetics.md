@@ -48,17 +48,18 @@
 	- Mouse + hST
 		1. Human growth hormone gene
 		2. Problematic
-			- Mouse grows too fast for skeleten
-	- Salmon expirements
+			- Mouse grows too fast for skeleton
+	- Salmon experiments
 	- FIV virus research
 		1. Macaque gene thought to protect against FIV virus 
 		2. Inserted FIV virus w/ jellyfish gene
 		3. Cat glowed under black light
-	- Human lactoferin
-		1. Cancer fighting agent
-		2. Incorporated into sheep genome
-		3. Protein would be expressed in milk
-		4. Goal that animal will keep producing offspring w/ gene
+	- Human lactoferrin
+		1. Human cancer fighting agent
+		3. Incorporated into sheep genome
+		4. Then create new embryo through cloning-like process
+		5. Protein is expressed in milk
+		6. Goal that animal will keep producing offspring w/ gene
 6. DNA Fingerprinting
 	- Genetic carriers
 	- Identify individuals

@@ -27,12 +27,15 @@
 				2. Very wide variety of forages
 				3. Concentrate selectors 
 					- Have smaller rumen than sheep
-		1. Sheep prefer a smaller variety of food
+		2. Sheep prefer a smaller variety of food
 			- Grazing animal
 				1. More limited variety of forages
 				2. Prefer grasses, legumes, and weeds
 					- NOT exclusive, only preference 
 					- Bigger rumen than goats bc more fibrous material
 				3. Harder for necks to reach up high than goats
-	3. [[Sheep (Ovine)]]
-	4. [[Goat (Caprine)]]
+		3. The primary diet of herbivore is less digestible plant material
+			- Goats and sheep are both primarily herbivores
+			- A grazing animal tends to prefer more limited types of forages, predominantly the grasses. Browsing animals have preferences for a wade variety of forages that may also include fruits and seeds.
+	1. [[Sheep (Ovine)]]
+	2. [[Goat (Caprine)]]

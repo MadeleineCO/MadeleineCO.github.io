@@ -28,7 +28,7 @@
 	1. Allow the passage of ions
 	2. Gated channels (open or close in response to chemical or electrical stimulus)
 		- Charges can open or close them
-		- How neurons work
+		- How neurons work (Na+ --> cell (causing action potential) then Na+K+ pumps ion out of cell (returns to resting potential)
 	3. 3 conditions to determine direction
 		- Relative concentration on either side of membrane
 		- Voltage differences across membrane

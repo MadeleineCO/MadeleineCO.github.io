@@ -140,10 +140,10 @@ Vagina sum::Semen deposition (except swine)
 Sperm and ovum are both ---::haploid (half the chromosomes); Embryo is diploid
 ^1663887923864
 
-Ovum has a ---::zona pelluie (shell) that sperm combines w/ to create embryo
+Ovum has a ---::zona pellucida (shell) that sperm combines w/ to create embryo
 ^1663887923868
 
-Embryo::Starts dividing (cells get smaller as they divide); Cells begin to specialize; The zona pelluiea surrounds the inner cell mass; Tripoplast cells within shell eventually break out as placenta
+Embryo::Starts dividing (cells get smaller as they divide); Cells begin to specialize; The zona pellucida surrounds the inner cell mass; Tripoplast cells within shell eventually break out as placenta
 ^1663887923871
 
 Placenta::Has several layers; Amnion (inner), Chorion (middle), and Allantois (outer); Chorioallantois (fused layers of placenta making up sac); Amnionic sac (makes up inner sac); Attached to internal organism by ambilocal cord; Uterine wall surrounds it all
@@ -394,7 +394,7 @@ Artificial insemination::Moves genes more quickly than natural mating; Freezing 
 Embryo Transfer::Superovulate the female w/ hormone treatments (increase follicle count and have several follicles ovulate) then harvest embryos and insert them in recipients; Allows you to perpetuate superior genetics; Used some in dairy cows
 ^1664628767091
 
-Embryo Splitting::Take zona pallida from embryo and split it so you have two embryos w/ same genetics (like forced twinning); Take embryos and insert them in recipients; Used some in dairy cows
+Embryo Splitting::Take zona pellucida from embryo and split it so you have two embryos w/ same genetics (like forced twinning); Take embryos and insert them in recipients; Used some in dairy cows
 ^1664628767098
 
 Triploidy::3 half sets of chromosomes (like 1.5 where most animals are diploid or have 1 full set); Mate normal sperm and interrupt meiosis to get extra half; Can use in fish for rapid/prolonged growth; No genetic fitness
@@ -550,3 +550,87 @@ Barber pole worm::Most economically important parasite affecting sheep and goat 
 
 Signs of parasites in sheep::Diarrhea, Bottle jaw, Poor body condition, Dull hair coat or abnormal fleece, Exercise or heat intolerance, High FAMACHA score
 ^1664906114726
+
+[[2022-10-06]]
+Brake points::Weakness in fiber due to a past illness; When animal gets sick, nutrients go from growth to fighting illness but wool keeps growing (results in weak break point); Shortens the staple length bc it breaks easily
+^1665101999684
+
+Shearing::Removal of the wool; Wool is prime over the winter and starts to shed in the spring (northern hemisphere); We shear in late spring after the typical frost but before lambing (cleaner and prevents lambs from getting tongue stuck in it)
+^1665101999692
+
+Shearing is a --- but not an easy job::fast procedure; Shearers start in south and move north as spring creeps upward
+^1665101999699
+
+Steps in wool production::Raw wool (Tinted brown w/ lanolin); Wool scouring train; Centrifuge (collects lanolin); Dyed Wool; Set of Cards (makes fibers go in same direction); Spinning frame (wraps fibers together); Loom (creates fabric); Fulling Mill (finishes fabric)
+^1665101999705
+
+Fewest sheep in the ---::South (hot + humid; mostly hair); Farm flocks mostly in the Midwest and Northeast; Larger flocks in west w/ mostly wool sheep
+^1665101999713
+
+Sheep numbers have dramatically --- in the US::dropped; Both meat and wool; Don't eat as much lamb due to WWII and wrong season (market in July-Aug but lamb is Christmas/Easter holiday food; imported from southern hemisphere (more expensive as well)); Competitors to wool including polyester and nylon (synthetic oil derivatives; less expensive than wool)
+^1665101999720
+
+Shepherds::Hard job and lifestyle; Isolation and seclusion; Must constantly move sheep to have enough grass
+^1665101999726
+
+Another issue facing sheep is ---::predation; Sheep are small and make easy prey; Most sheep lost to cayotes (about 75% of sheep lost to predation); Predation is 52% cause of death overall
+^1665101999733
+
+Contract grazing::Use sheep to graze lawns; Vineyards to eat grass but don't eat grapes; Solar farms to keep grass level down (don't climb on panels like goats)
+^1665101999740
+
+Goat diet::Browsing animals; Concentrate selectors; Do not eat everything but prefer wider variety of forages than sheep
+^1665101999746
+
+Goat parturition::kidding
+^1665101999754
+
+Goat intact male::billy or buck
+^1665101999761
+
+Castrated goat::wether
+^1665101999767
+
+Female goat::nany or doe
+^1665101999775
+
+Young male goat::Buckling
+^1665101999783
+
+Young female goat::doeling
+^1665101999791
+
+Young goat::kid
+^1665101999798
+
+Goat Reproduction::Seasonal breeders (short day for most); Estrous cycle = 21 days; Estrus = 24 hours; Gestation = 150 days; Puberty = 5-7 months
+^1665101999806
+
+Goat life cycle::Day 0 = breeding season (sept-nov); Day 150 = kidding (mar-apr; castration, immunization, and ear tags); Day 200 = weaning (may-june); Day 260 = typical market start (meat; july-aug; wider range than sheep bc flavor not as intense); Day 365 = breeding season (sept-nov; cycle repeats)
+^1665101999812
+
+Fiber types::Angora goats produce mohair ("goat's hair fabric"; type of hair); Cashmere (not a breed; the guard hair or undercoat of goats; expensive bc hard to weave as hair)
+^1665101999820
+
+Goat products::Goat milk, cheese, oils, meat
+^1665101999826
+
+Dairy goats::Nubian (name from GB but ultimately from Africa), La Mancha (spanish but developed in oregon)
+^1665101999833
+
+Meat goats::Boer (stocky and large frame; can be bred year-round unlike most goats); Kiko (new zealand); Myotonic (called fainting goats due to physiological defect (when startled, both biceps and triceps lock up))
+^1665101999840
+
+There are --- sheep and --- goats in the US::5.2 mil; 2.62 mil; Fewer goats than sheep
+^1665101999847
+
+Goats are good for ---::contract graving; Eat wider variety of forage; Can be used when grapes dormant in vineyards (eat weeds) then bring in sheep when grapes appear
+^1665101999855
+
+Goats in Argania trees; Argan oil comes from trees, goats eat fruit then oil extracted from feces; Very expensive
+
+Goats can go --- easily::feral; Can lead to overgrazing if feral (ex Galapagos islands project)
+^1665101999862
+
+A grazing animal tends to prefer more limited types of forages, predominantly the grasses. Browsing animals have preferences for a ---::wide variety of forages that may also include fruits and seeds.
+^1665407038038

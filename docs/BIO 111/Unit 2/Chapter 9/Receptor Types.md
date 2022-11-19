@@ -4,18 +4,18 @@
 	- Receptors can be defined by their location
 	- 2 types
 		1. Intracellular receptor
-			- Located within the [[cell]]
+			- Located within the [[Cell]]
 			- Steroid hormones
-				1. Common nonpolar, [[lipid]] soluble structure
-				2. Can cross the plasma membrane to steroid receptor inside the [[cell]]
+				1. Common nonpolar, [[Lipid]] soluble structure
+				2. Can cross the plasma membrane to steroid receptor inside the [[Cell]]
 					- Plasma membrane not a barrier to hydrophobic steroid hormones 
 				3. Binding of the hormone to the receptor causes the protein complex inside cell to shift from the cytoplasm to the nucleus
-					- The [[protein]] is not anchored to a membrane
+					- The [[Protein]] is not anchored to a membrane
 					- Often binds to [[DNA]]
 					- Can act as regulators of gene expression
 				4. Ex: cortisol (stress hormone)
 					- Cortisone is drug that helps w/ pain
-					- Not given very often because they last a while (do not break down in [[water]])
+					- Not given very often because they last a while (do not break down in [[Water]])
 				5. Steroid hormones have similar chemical structures to their precursor, cholesterol 
 					- Because these molecules are small and hydrophobic, they can diffuse directly across the plasma membrane into the cell, where they interact with internal receptors.
 					- Estradiol and testosterone
@@ -43,14 +43,14 @@
 	- Subclasses of membrane receptors
 		1. Chemically gated ion channels 
 			- Channel-linked receptors that open to let specific ion pass in response to a ligand
-			- Sodium is higher outside of [[cell]]
+			- Sodium is higher outside of [[Cell]]
 				1. Can open channel that allows sodium to enter
-				2. Resting potential is the charge inside the [[cell]]
+				2. Resting potential is the charge inside the [[Cell]]
 					- Common value is -60 mV
 					- Naturally negative
 					- When sodium enters, resting potential increases (less negative)
 						1. Could eventually become positive
-						2. Can depolarizing the [[cell]] towards zero and then can hyperpolarize in the opposite direction
+						2. Can depolarizing the [[Cell]] towards zero and then can hyperpolarize in the opposite direction
 						3. Called action potential
 							- How nerves work
 							- Neuron fires, influx of sodium, becomes less negative/more positive
@@ -58,10 +58,10 @@
 				3. If sodium gate broken, paralysis occurs
 		2. Enzymatic receptors
 			- Receptor is an enzyme that is activated by the ligand
-				1. Almost all are [[protein]] kinases
-		3. G [[protein]]-coupled receptor (GCPR)
-			- A G-[[protein]] (bound to GTP) assists in transmitting the signal from receptor to enzyme (effector)
-			- G-[[protein]] = protein bound to GTP
+				1. Almost all are [[Protein]] kinases
+		3. G [[Protein]]-coupled receptor (GCPR)
+			- A G-[[Protein]] (bound to GTP) assists in transmitting the signal from receptor to enzyme (effector)
+			- G-[[Protein]] = protein bound to GTP
 				1. Guanine triphosphate (another nucleotide)
 			- G-protein-coupled receptor (GPCRs) = receptors bound to G-proteins
 				1. G-protein is a switch turned on by the receptor
@@ -69,8 +69,8 @@
 					- Cutting phosphate off of GTP (makes GDP)
 					- G-proteins have the intrinsic ability to hydrolyze 
 						1. Can turn itself off after receptor turns it on
-				3. G-[[protein]] then activates effector proteins (usually [[enzymes]])
+				3. G-[[Protein]] then activates effector proteins (usually [[Enzymes]])
 				4. Single largest category of receptor type in animal cells is GPCRs
 					- A worm has exactly 958 cells and >5% of proteins are GPCRs in these worms
 					- Critical for animal cells
-				5. G-protein provides link between receptor that receives signal and effector [[protein]] that produces cellular response
+				5. G-protein provides link between receptor that receives signal and effector [[Protein]] that produces cellular response

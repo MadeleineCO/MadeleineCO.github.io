@@ -31,8 +31,8 @@
 		1. Sorta a fifth type, but could be seen as version of paracrine
 3. Signal transduction 
 	- Events within [[Cell]] that occur in response to a signal
-	- When a ligand binds to a receptor [[protein]], the [[cell]] has a response
-	- Different [[cell]] types can respond differently to the same signal
+	- When a ligand binds to a receptor [[Protein]], the [[Cell]] has a response
+	- Different [[Cell]] types can respond differently to the same signal
 		1. Ex: Epinephrine and adrenaline 
 			- Molecules like this make bodies do a number of things
 		2. Can bind to different receptors 
@@ -46,13 +46,13 @@
 	- The ideal drug only binds to one targeted receptor, but not as simple in reality
 	- Signals are only as good as the receptors 
 4. Chemical Signaling Overview
-	- Autocrine ([[cell]] targets itself)
-	- Signaling across gap junctions ([[cell]] targets cell connected by gap junctions)
+	- Autocrine ([[Cell]] targets itself)
+	- Signaling across gap junctions ([[Cell]] targets cell connected by gap junctions)
 		1. Quick
-	- Paracrine ([[cell]] targets nearby cell)
+	- Paracrine ([[Cell]] targets nearby cell)
 		1. Usually inflammation in local area
 		2. Quick
-	- Endocrine ([[cell]] targets distant cell through the bloodstream)
+	- Endocrine ([[Cell]] targets distant cell through the bloodstream)
 		1. Small in concentration
 		2. Travel great distances
 		3. Slow
@@ -65,20 +65,20 @@
 	- Kinase is an enzyme that phosphorylates something
 		1. Gets phosphates from [[ATP]] or GTP
 	- Scaffold proteins
-		1. Hold map kinases (kinases that stimulate [[cell]] division)
+		1. Hold map kinases (kinases that stimulate [[Cell]] division)
 		2. Series of enzymes associated w/ each other so than when one protein is phosphorylated another is phosphorylated then another in a series
 		3. One called map kinase kinase kinase (MKKK) that cascades to MKK then to map kinase (MK)
 7. Intracellular key effectors (cascade of events)
 	- Intracellular second messengers are chemical signals that cells say to do something quickly (lots in a chain of events)
 	- Often, the effector proteins activated by G proteins produce a second messenger
 	- Adenylyl cyclase
-		1. Activated by G-[[protein]]
-		2. Produces cAMP, which binds to and activates the [[Enzymes|enzyme]] [[protein]] kinase A (PKA)
+		1. Activated by G-[[Protein]]
+		2. Produces cAMP, which binds to and activates the [[Enzymes|enzyme]] [[Protein]] kinase A (PKA)
 		3. PKA adds phosphates to specific proteins
 		4. When cAMP, [[Cell|cells]] must get things moving quickly
 			- Binds to PKA which then phosphorylates other proteins downstream of it
 	- Phospholipase C
-		1. Name = Phosphorylation + [[lipid]] + [[Enzymes|enzyme]]
+		1. Name = Phosphorylation + [[Lipid]] + [[Enzymes|enzyme]]
 			- Associated with membranes (hence lipid part in name)
 			- Takes membrane bound structure and reorganizes it to make other signaling molecules
 		2. PIP2 is acted on by effector protein phospholipase C
@@ -90,7 +90,7 @@
 			- Masks fatigue
 	- The [[Enzymes|enzyme]] phospholipase C breaks down PIP2 into IP3 and DAG, both of which serve as second messengers
 	- RAS proteins
-		1. Small GTP-binding [[protein]] (G protein)
+		1. Small GTP-binding [[Protein]] (G protein)
 			- Can turn itself off
 			- Active when GTP is bound and inactive when GDP is bound
 			- Innate hydrolyzing capabilities
@@ -101,24 +101,24 @@
 				4. Hydrolysis then terminates the signal as GTP --> GDP
 			- Cholera
 				1. Massive diarrhea that dehydrates you 
-				2. Unclean [[water]]
+				2. Unclean [[Water]]
 					- Cholera is a ligand and a toxin that binds to a G protein associated w/ receptor that can open a chloride channel in the intestines
 					- Lumen = interior cavity
 					- Chloride ions are then pumped into the intestines, causing water to follow the high concentration of the solute (CL-)
 					- Toxin prevents G protein from shutting off so Cl- and water keeps pouring in
 					- Diarrhea --> dehydration --> death
 		1. Link between the RTK and the MAP kinase cascade
-		2. RAS [[protein]] is mutated in many human tumors, indicative of its central role in linking growth factor receptors to their cellular response
+		2. RAS [[Protein]] is mutated in many human tumors, indicative of its central role in linking growth factor receptors to their cellular response
 		3. RAS can regulate itself - stimulation by growth factors are short-lived
 		4. Majority of cancers caused by mutation in this protein
 			- When RAS can't hydrolyze or turn itself off
 			- Cancerous tissues doesn't have normal specialized functions
-			- Take resources normal [[cell|cells]] need
+			- Take resources normal [[Cell|cells]] need
 8. Receptor Kinases
 	- Kinases phosphorylate proteins to alter function
 	- Receptor tyrosine kinases (RTK)
 		1. Tyrosine = [[Amino Acids|amino acid]]
-		2. Membrane bound [[protein]] 
+		2. Membrane bound [[Protein]] 
 			- Single pass transmembrane protein
 		3. GPCR goes through membrane seven times
 		4. Ligand binds and phosphorylation occurs
@@ -136,12 +136,12 @@
 9. Phosphorylation
 	- Kinases turn stuff on, but how do you turn things off?
 		1. Phosphatase = enzyme that removes a phosphate from a protein
-	- Only three [[amino acids]] that can be phosphorylated
+	- Only three [[Amino Acids]] that can be phosphorylated
 		1. Tyrosine
 		2. Serine
 		3. Threonine
 			- Extra methal group on threonine
-		4. Any [[protein]] that must be phosphorylated will have one of these three at a specific location
+		4. Any [[Protein]] that must be phosphorylated will have one of these three at a specific location
 		5. Primary sequence of a protein tells you the order of amino acids 
 		6. Kinases are either serine and threonine kinases or tyrosine kinases
 6. ERK = MAP kinase that activates translation when it is phosphorylated
@@ -150,20 +150,20 @@
 		2. Loop stops production until proteins are phosphorylated, removing the loop, and allowing proteins to be produced
 	- Allows you to control when you can make proteins
 		1. Controlling this is critical 
-			- Apoptosis (aka programmed [[cell]] death)
+			- Apoptosis (aka programmed [[Cell]] death)
 				1. Times when you need your cells to die
 				2. Intentional w/ positive outcomes
 				3. 15 day-old mouse embryo has areas of tissue between the toas, which apoptosis eliminates before the mouse reaches full gestational age of 27 days
 					- Humans have this web-like tissue as well that must be removed as fingers develop
 10. Intercellular communication 
 	- Budding yeast cells can communicate by releasing a signaling molecule called mating factor 
-		1. Communication between mother [[cell]] and daughter cell (asexual reproduction)
+		1. Communication between mother [[Cell]] and daughter cell (asexual reproduction)
 		2. Yeast can also exchange genetic material with other cells (sexual reproduction)
 			- Mating factor is a ligand than can bind on receptor of receiving yeast cell
 			- Stimulates this exchange of genetic info
 	- Autocrine signaling
 		1. Autoinducers are small molecules or proteins that can regulate gene expression
-		2. When [[cell]] density is low, autoinducers diffuse away from cell
+		2. When [[Cell]] density is low, autoinducers diffuse away from cell
 		3. When cell density is high, more autoinducers are present and bind to receptors that regulate transcription of certain genes that are responsible for production of autoinducers, resulting in a positive feedback loop
 	- Cell-cell communication enables Staphylococcus aureus bacteria to work together to form a biofilm inside a hospital patient’s catheter. S. aureus is the main cause of hospital-acquired infections.
-	- Hawaiian bobtail squid have a symbiotic relationship with the bioluminescent bacteria Vibrio fischeri. The luminescence makes it difficult to see the squid from below because it effectively eliminates its shadow. In return for camouflage, the squid provides food for the bacteria. Free-living V. fischeri do not produce luciferase, the enzyme responsible for luminescence, but V. fischeri living in a symbiotic relationship with the squid do. Quorum sensing determines whether the bacteria should produce the luciferase [[enzymes|enzyme]]. 
+	- Hawaiian bobtail squid have a symbiotic relationship with the bioluminescent bacteria Vibrio fischeri. The luminescence makes it difficult to see the squid from below because it effectively eliminates its shadow. In return for camouflage, the squid provides food for the bacteria. Free-living V. fischeri do not produce luciferase, the enzyme responsible for luminescence, but V. fischeri living in a symbiotic relationship with the squid do. Quorum sensing determines whether the bacteria should produce the luciferase [[Enzymes|enzyme]]. 

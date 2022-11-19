@@ -27,12 +27,14 @@
 			- Other hormones as well
 	- Epididymis ("on testes") (x2)
 		1. Pushed from testes to head of epididymis
-		2. Like a tube or river
-		3. Sperm transport from testes to caua (tail) epididymis 
-		4. Nutrition for sperm
-		5. Sperm maturation process continues
+		2. No endocrine function except in horses
+			- Testosterone cells in testes and epididymis
+		3. Like a tube or river
+		4. Sperm transport from testes to caua (tail) epididymis 
+		5. Nutrition for sperm (exocrine)
+		6. Sperm maturation process continues
 			- Can take 60 days in bulls
-		6. Storage for ejaculation 
+		7. Storage for ejaculation 
 			- Caua is only place where mature sperm that can be ejaculated are stored
 	- Vas Deferens (Ductus Deferens) 
 		1. Transports sperm from epididymis to the urethra 

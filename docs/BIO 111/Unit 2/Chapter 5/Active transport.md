@@ -32,7 +32,7 @@
 					2. When you cleave a phosphate, you get ADP (adenosine diphosphate) to change [[Protein]] shape to release K+ to inside. Then releases phosphate to move Na+ to outside. 
 		- Affinity of the carrier protein for either Na+ or K+ changes so the  ions can be carried across the membrane
 1. Coupled transport
-	1. Uses ATP indirectly 
+	1. Uses ATP indirectly (secondary active transport)
 		- Uses energy released when molecule moves by diffusion to supply energy to active transport of different molecule
 	2. Symporter is used
 		- Glucose-Na+ symporter captures the energy from Na+ diffusion to move glucose against a concentration gradient

@@ -8,7 +8,7 @@
 		- Sometimes want to limit reproduction (feral cats)
 		- Much easier to mess up reproduction than improve it
 2. Terms
-	1. Estrous Cycle = All physiological and behavioral changes from one ovulation to the next consecutive ovulation ([[Female Reproduction]])
+	1. Estrous Cycle = All physiological and behavioral changes from one ovulation to the next consecutive ovulation 
 		- Menstrual Cycle in humans and primates is very different
 	2. Estrus = Period of receptivity to be bred by the male
 	3. Ovum = Female gamete
@@ -20,7 +20,7 @@
 	7. Parturition = The birth process
 	8. Oviposition = The process of laying an egg (usually [[avian|avians]])
 	9. Incubation = Embryonic development outside the body (usually [[avian|avians]])
-	10. See chart for [[Animal-Specific Reproductive Info.png]]!
+	10. See chart for [[Animal-Specific Reproductive Info.png]]
 	11. Duplex = Two cervixes (Marsupials and rodents)
 	12. Bicornate = Poorly to moderately developed uterine horns in mares and cows but highly developed in bitches, queens, and sows
 		- Livestock, cats, dogs
